@@ -1,0 +1,12 @@
+{
+    "name": "rundead.info",
+    "version": "1.0.0",
+    "description": "Update logic for RUNDEAD data",
+    "main": "index.js",
+    "author": "Ted O'Connor",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "axios-request-throttle": "^1.0.0"
+    }
+}
