@@ -56,7 +56,7 @@ function sortWallets(a, b) {
 
 function exportCSV(wallets) {
     log('saving', wallets.length, 'wallets');
-    fs.writeFileSync(csvFile, 'wallet,rundead,bones,farthest\n');
+    fs.writeFileSync(csvFile, `wallet,rundead,bones,farthest,,last updated ${new Date().toISOString()}\n`);
     wallets.forEach(w => {
         let line = `${w.wallet},${w.rundead},${w.bones},${w.miles}\n`;
         fs.appendFileSync(csvFile, line);
