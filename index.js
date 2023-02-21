@@ -12,7 +12,7 @@ const csvFile = 'rundead.csv';
     exportJSON(nfts);
 
     const wallets = rankWallets(nfts);
-    exportCSV(wallets);
+    exportCSV(wallets, started);
 
     log('completed', elapsed(Date.now() - started));
 })();
@@ -54,9 +54,9 @@ function sortWallets(a, b) {
     return b.miles - a.miles;
 }
 
-function exportCSV(wallets) {
+function exportCSV(wallets, started) {
     log('saving', wallets.length, 'wallets');
-    fs.writeFileSync(csvFile, `wallet,rundead,bones,farthest,,last updated ${new Date().toISOString()}\n`);
+    fs.writeFileSync(csvFile, `wallet,rundead,bones,farthest,,last updated ${new Date(started).toISOString()}\n`);
     wallets.forEach(w => {
         let line = `${w.wallet},${w.rundead},${w.bones},${w.miles}\n`;
         fs.appendFileSync(csvFile, line);
