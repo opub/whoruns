@@ -1,10 +1,5 @@
-updated Sun Feb 26 14:53:02 UTC 2023
-2023-02-26T14:53:03.036Z WARN getListings Too Many Requests https://api-mainnet.magiceden.dev/v2/collections/rundead/listings?offset=20&limit=20 1000
-2023-02-26T14:53:04.117Z WARN getListings Too Many Requests https://api-mainnet.magiceden.dev/v2/collections/rundead/listings?offset=20&limit=20 2000
-2023-02-26T14:53:06.195Z WARN getListings Too Many Requests https://api-mainnet.magiceden.dev/v2/collections/rundead/listings?offset=20&limit=20 3000
-2023-02-26T14:53:09.279Z WARN getListings Too Many Requests https://api-mainnet.magiceden.dev/v2/collections/rundead/listings?offset=20&limit=20 4000
-2023-02-26T14:53:13.355Z WARN getListings Too Many Requests https://api-mainnet.magiceden.dev/v2/collections/rundead/listings?offset=20&limit=20 5000
-2023-02-26T14:53:19.606Z WARN getListings Too Many Requests https://api-mainnet.magiceden.dev/v2/collections/rundead/listings?offset=20&limit=20 6000
+updated Sun Feb 26 15:34:05 UTC 2023
+https://magiceden.io/item-details/3hvHrmj5N9rBFr7UqY1791TNRi8AGABzegDhFx915gvh 17 Bones 23.94 Bones/SOL 0.7 SOL
 https://magiceden.io/item-details/AEFbnztTRHkbo41M4Cu7nVJKWzoh3AB2JCv9nKyoivfe 19 Bones 23.71 Bones/SOL 0.79 SOL
 https://magiceden.io/item-details/JBzWHVrzpKX5VWZbLXW4NZTNGKmD5VJSU4KBuHQDmoVs 17 Bones 18.62 Bones/SOL 0.9 SOL
 https://magiceden.io/item-details/8Myp42LA1WHnDpCGVKGUfDjPoFtFqcJuVzQF9XsXDBzj 17 Bones 18.62 Bones/SOL 0.9 SOL
@@ -24,4 +19,3 @@ https://magiceden.io/item-details/HgMrfTRfN4sQ6DBeyqSn31b2cCv6rmNiCb6FYUd1uTW1 1
 https://magiceden.io/item-details/Fc7HHCuqU137ssVPXwZo4ZcEh4eAkhPZUsQvWGdRGH8k 13 Bones 15.08 Bones/SOL 0.85 SOL
 https://magiceden.io/item-details/4dLuV8jbD9mdZ2pCAYVEwW1w8bWpV7S6XKP2sJ83BrZo 12 Bones 15.01 Bones/SOL 0.788 SOL
 https://magiceden.io/item-details/4ki8Cbey9aooGJNbDcsPurxnezihqjbsxh2MBhg1hnZP 12 Bones 14.97 Bones/SOL 0.79 SOL
-https://magiceden.io/item-details/yUwMLJtx8jPKWHLKK5doxaaur1N1vBJvUoaHnpD2Zga 13 Bones 14.9 Bones/SOL 0.86 SOL
