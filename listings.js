@@ -1,5 +1,5 @@
 const { get, requestError } = require('./common/util');
-const rundead = require('./rundead-bones.json');
+const rundead = require('./rundead.json');
 
 const collection = 'rundead';
 const magicEden = 'https://api-mainnet.magiceden.dev/v2';
