@@ -10,6 +10,7 @@ on:
     paths:
       - '**'
       - '!rundead.*'
+      - '!listing.txt'
 
 jobs:
   Update-RUNDEAD-Stats:
@@ -34,6 +35,12 @@ jobs:
         run: |
           node index.js
       
+      - name: Update Listings
+        timeout-minutes: 50
+        run: |
+          echo "updated $(date)" > listings.txt
+          node listings.js >> listings.txt
+
       - name: Check Updates
         id: git-check
         run: echo "modified=$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)" >> $GITHUB_OUTPUT
