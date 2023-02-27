@@ -28,11 +28,11 @@ exports.requestError = async function (from, err) {
     if (err.message.substring(0, 3) === '429' || resp && resp.config && (resp.status === 408 || resp.status === 429)) {
         // hitting timeout or the QPM limit so snooze a bit
         const wait = attempts * backoff;
-        log('WARN', from, resp.statusText, resp.config.url, wait);
+        error('WARN', from, resp.statusText, resp.config.url, wait);
         await sleep(wait);
         return true;
     } else {
-        log('ERROR', from, err.name, err.message);
+        error('ERROR', from, err.name, err.message);
         return false;
     }
 }
@@ -95,3 +95,8 @@ function log() {
     console.log(new Date().toISOString(), ...arguments);
 }
 exports.log = log;
+
+function error() {
+    console.error(new Date().toISOString(), ...arguments);
+}
+exports.error = error;

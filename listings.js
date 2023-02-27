@@ -31,10 +31,12 @@ async function getListings() {
     const listings = await getListings();
     listings.forEach(nft => {
         const found = lookup.get(nft.mint);
-        nft.listing = `https://magiceden.io/item-details/${nft.mint}`;
-        nft.bones = parseInt(found.Bones);
-        nft.ratio = parseInt(found.Bones) / (nft.price * 1.0145);
-        delete nft.mint;
+        if (found) {
+            nft.listing = `https://magiceden.io/item-details/${nft.mint}`;
+            nft.bones = parseInt(found.Bones);
+            nft.ratio = parseInt(found.Bones) / (nft.price * 1.0145);
+            delete nft.mint;
+        }
     });
 
     const top = listings.sort((a, b) => b.ratio - a.ratio).slice(0, 20);
