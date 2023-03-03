@@ -35,8 +35,10 @@ function rankWallets(nfts) {
     nfts.forEach(nft => {
         const info = wallets.has(nft.owner) ? wallets.get(nft.owner) : { wallet: nft.owner, rundead: 0, bones: 0, miles: 0 };
         info.rundead++;
-        info.bones += parseInt(nft.Bones);
-        if (nft.Miles && parseInt(nft.Miles) > info.miles) {
+        if (!isNaN(nft.Bones)) {
+            info.bones += parseInt(nft.Bones);
+        }
+        if (!isNaN(nft.Miles) && parseInt(nft.Miles) > info.miles) {
             info.miles = parseInt(nft.Miles);
         }
         wallets.set(nft.owner, info);
