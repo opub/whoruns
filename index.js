@@ -2,6 +2,7 @@ const { loadNFTs } = require('./nft');
 const { elapsed, log } = require('./common/util');
 const fs = require('fs');
 
+const MAGICEDEN = '1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix';
 const jsonFile = 'rundead.json';
 const csvFile = 'rundead.csv';
 
@@ -61,7 +62,8 @@ function exportCSV(wallets, started) {
     fs.writeFileSync(csvFile, `rank,wallet,rundead,bones,farthest,,last updated ${new Date(started).toISOString()}\n`);
     let rank = 1;
     wallets.forEach(w => {
-        let line = `${rank++},${w.wallet},${w.rundead},${w.bones},${w.miles}\n`;
+        let wallet = w.wallet === MAGICEDEN ? 'magiceden' : w.wallet;
+        let line = `${rank++},${wallet},${w.rundead},${w.bones},${w.miles}\n`;
         fs.appendFileSync(csvFile, line);
     });
 }
