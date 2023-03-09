@@ -12,10 +12,12 @@ fs.createReadStream('rundead.csv')
                 data[key] = parseInt(data[key]);
             }
         }
-        loaded.push(data);
+        if (data.bones >= 100) {
+            loaded.push(data);
+        }
     })
     .on('end', () => {
-        snapshots[new Date().toISOString().slice(0, 10)] = loaded;
+        snapshots[new Date().toISOString().slice(0, 16)] = loaded;
         fs.writeFileSync('snapshots.json', JSON.stringify(snapshots, null, 2));
     })
     .on('error', (error) => {
