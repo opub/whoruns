@@ -34,13 +34,16 @@ function exportJSON(nfts) {
 function rankWallets(nfts) {
     const wallets = new Map();
     nfts.forEach(nft => {
-        const info = wallets.has(nft.owner) ? wallets.get(nft.owner) : { wallet: nft.owner, rundead: 0, bones: 0, miles: 0 };
+        const info = wallets.has(nft.owner) ? wallets.get(nft.owner) : { wallet: nft.owner, rundead: 0, bones: 0, fastest: 0, slowest: 99 };
         info.rundead++;
         if (!isNaN(nft.Bones)) {
             info.bones += parseInt(nft.Bones);
         }
-        if (!isNaN(nft.Miles) && parseInt(nft.Miles) > info.miles) {
-            info.miles = parseInt(nft.Miles);
+        if (!isNaN(nft.Miles) && parseInt(nft.Miles) > info.fastest) {
+            info.fastest = parseInt(nft.Miles);
+        }
+        if (!isNaN(nft.Miles) && parseInt(nft.Miles) < info.slowest) {
+            info.slowest = parseInt(nft.Miles);
         }
         wallets.set(nft.owner, info);
     });
@@ -54,16 +57,16 @@ function sortWallets(a, b) {
     if (a.rundead !== b.rundead) {
         return b.rundead - a.rundead;
     }
-    return b.miles - a.miles;
+    return b.fastest - a.fastest;
 }
 
 function exportCSV(wallets, started) {
     log('saving', wallets.length, 'wallets');
-    fs.writeFileSync(csvFile, `rank,wallet,rundead,bones,farthest,,last updated ${new Date(started).toISOString()}\n`);
+    fs.writeFileSync(csvFile, `rank,wallet,rundead,bones,fastest,slowest,,last updated ${new Date(started).toISOString()}\n`);
     let rank = 1;
     wallets.forEach(w => {
         let wallet = w.wallet === MAGICEDEN ? 'magiceden' : w.wallet;
-        let line = `${rank++},${wallet},${w.rundead},${w.bones},${w.miles}\n`;
+        let line = `${rank++},${wallet},${w.rundead},${w.bones},${w.fastest},${w.slowest}\n`;
         fs.appendFileSync(csvFile, line);
     });
 }

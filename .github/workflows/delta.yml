@@ -1,19 +1,12 @@
-name: Update RUNDEAD
+name: Calculate Wallet Deltas
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0,30 * * * *'  
-  push:
-    branches:
-      - main
-    paths:
-      - '**'
-      - '!rundead.*'
-      - '!listing.txt'
+    - cron: '0 0 * * *'
 
 jobs:
-  Update-RUNDEAD-Stats:
+  calculate-deltas:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Trigger = ${{ github.event_name }}"
@@ -33,13 +26,7 @@ jobs:
       - name: Run Program
         timeout-minutes: 50
         run: |
-          node index.js
-      
-      - name: Update Listings
-        timeout-minutes: 50
-        run: |
-          echo "updated $(date)" > listings.txt
-          node listings.js >> listings.txt
+          node delta.js
 
       - name: Check Updates
         id: git-check
