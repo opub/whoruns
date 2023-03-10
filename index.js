@@ -42,7 +42,7 @@ function rankWallets(nfts) {
         if (!isNaN(nft.Miles) && parseInt(nft.Miles) > info.fastest) {
             info.fastest = parseInt(nft.Miles);
         }
-        if (!isNaN(nft.Miles) && (info.slowest === undefined || parseInt(nft.Miles) < info.slowest)) {
+        if (!isNaN(nft.Miles) && (!info.slowest || parseInt(nft.Miles) < info.slowest)) {
             info.slowest = parseInt(nft.Miles);
         }
         wallets.set(nft.owner, info);

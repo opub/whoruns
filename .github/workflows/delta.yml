@@ -26,7 +26,7 @@ jobs:
       - name: Run Program
         timeout-minutes: 50
         run: |
-          node delta.js
+          node delta.js > movers.csv
 
       - name: Check Updates
         id: git-check
