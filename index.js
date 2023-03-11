@@ -34,16 +34,15 @@ function exportJSON(nfts) {
 function rankWallets(nfts) {
     const wallets = new Map();
     nfts.forEach(nft => {
-        const info = wallets.has(nft.owner) ? wallets.get(nft.owner) : { wallet: nft.owner, rundead: 0, bones: 0, fastest: 0 };
+        const info = wallets.has(nft.owner) ? wallets.get(nft.owner) : { wallet: nft.owner, rundead: 0, bones: 0, fastest: 0, slowest: Number.MAX_SAFE_INTEGER };
         info.rundead++;
-        if (!isNaN(nft.Bones)) {
-            info.bones += parseInt(nft.Bones);
+        info.bones += nft.Bones && !isNaN(nft.Bones) ? parseInt(nft.Bones) : 0;
+        const miles = nft.Miles && !isNaN(nft.Miles) ? parseInt(nft.Miles) : 0;
+        if (miles > info.fastest) {
+            info.fastest = miles;
         }
-        if (!isNaN(nft.Miles) && parseInt(nft.Miles) > info.fastest) {
-            info.fastest = parseInt(nft.Miles);
-        }
-        if (!isNaN(nft.Miles) && (!info.slowest || parseInt(nft.Miles) < info.slowest)) {
-            info.slowest = parseInt(nft.Miles);
+        if (miles < info.slowest) {
+            info.slowest = miles;
         }
         wallets.set(nft.owner, info);
     });
