@@ -3,7 +3,7 @@ const { loadWallet, loadToken } = require('./api');
 const { increment, progress, clear, log, elapsed } = require('./common/util');
 
 const magiceden = '1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix';
-const hashList = require('./data/hash-list.json');
+// const hashList = require('./data/hash-list.json');
 const cacheFile = 'rundead.json';
 
 // load all nfts and metadata using locally cached values if available
@@ -12,11 +12,11 @@ exports.loadNFTs = async function () {
 
     const cached = fs.existsSync(cacheFile) ? JSON.parse(fs.readFileSync(cacheFile, 'utf-8')) : [];
     const lookup = new Map(cached.map(nft => [nft.mint, nft]));
-    hashList.forEach(hash => {
-        if (!lookup.has(hash)) {
-            lookup.set(hash, {});
-        }
-    });
+    // hashList.forEach(hash => {
+    //     if (!lookup.has(hash)) {
+    //         lookup.set(hash, {});
+    //     }
+    // });
 
     const nfts = [];
     const wallets = [...new Set(cached.filter(nft => nft.owns > 1).map(nft => nft.owner))];
