@@ -31,12 +31,11 @@ jobs:
           npm install
       
       - name: Run Program
-        timeout-minutes: 50
+        timeout-minutes: 85
         run: |
           node index.js
       
       - name: Update Listings
-        timeout-minutes: 50
         run: |
           echo "updated $(date)" > listings.txt
           node listings.js >> listings.txt
