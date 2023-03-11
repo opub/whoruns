@@ -27,6 +27,9 @@ exports.loadWallet = async function (wallet) {
 
 // get MagicEden token metadata
 exports.loadToken = async function (mint) {
+    if (!mint) {
+        return false;
+    }
     let loading = true;
     do {
         try {

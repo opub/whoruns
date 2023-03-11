@@ -36,7 +36,7 @@ exports.loadNFTs = async function () {
     const remaining = Array.from(lookup.keys());
     for (let i = 0; i < remaining.length; i++) {
         const loaded = await loadToken(remaining[i]);
-        if (loaded) {
+        if (loaded && loaded.name) {
             const nft = normalize(loaded);
             nfts.push(nft);
             lookup.delete(nft.mint);
