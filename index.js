@@ -5,12 +5,15 @@ const fs = require('fs');
 const MAGICEDEN = '1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix';
 const jsonFile = 'rundead.json';
 const csvFile = 'rundead.csv';
+const holdingFile = 'holdings.csv';
 
 (async () => {
     const started = Date.now();
 
     const nfts = await loadNFTs();
     exportJSON(nfts);
+
+    exportHoldings(nfts, started);
 
     const wallets = rankWallets(nfts);
     exportCSV(wallets, started);
@@ -68,4 +71,24 @@ function exportCSV(wallets, started) {
         let line = `${rank++},${wallet},${w.rundead},${w.bones},${w.fastest},${w.slowest}\n`;
         fs.appendFileSync(csvFile, line);
     });
+}
+
+function exportHoldings(nfts, started) {
+    log('saving', nfts.length, 'holdings');
+    nfts.sort((a, b) => sortHoldings(a, b));
+    fs.writeFileSync(holdingFile, `wallet,rundead,mint,,last updated ${new Date(started).toISOString()}\n`);
+    nfts.forEach(n => {
+        let line = `${n.owner},${n.name},${n.mint}\n`;
+        fs.appendFileSync(holdingFile, line);
+    });
+}
+
+function sortHoldings(a, b) {
+    if (a.owns !== b.owns) {
+        return b.owns - a.owns;
+    }
+    if (a.owner !== b.owner) {
+        return a.owner - b.owner;
+    }
+    return a.name - b.name;
 }
