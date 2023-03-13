@@ -1,4 +1,4 @@
-updated Mon Mar 13 12:45:08 UTC 2023
+updated Mon Mar 13 13:22:59 UTC 2023
 https://magiceden.io/item-details/9AYs72V25BaXrht8gsimhE4NLKeDRTowhJd4yVMVv7G5 21 Bones 31.85 Bones/SOL 0.65 SOL
 https://magiceden.io/item-details/GcUJEXjbqgzCFEadvDRbrhcrwqQAgRsp52eFw976MTov 14 Bones 30.67 Bones/SOL 0.45 SOL
 https://magiceden.io/item-details/kSnG42JmksxLE2u9iiJLtjRrWGJ9eGkHYLkSnrt9Zsn 21 Bones 30.44 Bones/SOL 0.68 SOL
@@ -13,9 +13,9 @@ https://magiceden.io/item-details/7eZDu41V8o14TdmHNyPDMfkTRYZqfGEBBMvkTJTxLQMQ 1
 https://magiceden.io/item-details/HoVDxFuBuVNV2WMbLyxzMpAsgk6kQhBWdpexQ8ScyG4P 18 Bones 29.57 Bones/SOL 0.6 SOL
 https://magiceden.io/item-details/CDj3voAaAoXFbTUtFqryM2TpQG925kMSZz9yf1nLwLHN 18 Bones 29.57 Bones/SOL 0.6 SOL
 https://magiceden.io/item-details/GpGH9pHENcRUxg2jAWyLpx39DCau1zAWYmWppcZCzpmE 18 Bones 29.57 Bones/SOL 0.6 SOL
+https://magiceden.io/item-details/FQ4byvz3spaDpsw49wZ1NuWH2dfspCKKgnJarRMVhsxD 69 Bones 29.44 Bones/SOL 2.31 SOL
 https://magiceden.io/item-details/3Jhhv1VJmsYiTbsHQFDXfEJZTFkjRbVXi4VJURocfTbg 17 Bones 29.4 Bones/SOL 0.57 SOL
 https://magiceden.io/item-details/5Sxv1su7wX2TWmq4rBMa5mVUyP9esXRnnDEu4WRTMDPK 12 Bones 28.85 Bones/SOL 0.41 SOL
 https://magiceden.io/item-details/72NjPCxXnmoseahZ51kL1LHccji9SBu4YLE9uE1nir78 14 Bones 28.75 Bones/SOL 0.48 SOL
 https://magiceden.io/item-details/9oHBjxcq8JsWFa5x2jKuWuPwYnqyZ8tYsdqrRxU1jSj5 20 Bones 28.57 Bones/SOL 0.69 SOL
 https://magiceden.io/item-details/5CzT4q8jRbSDhAJZWKtTLYUQ9cCkCedtczmVJFxe447X 20 Bones 28.57 Bones/SOL 0.69 SOL
-https://magiceden.io/item-details/FzdpXg4tJYaQYi9XNAQUrUWe3XAjuAfRk3xTsXWfrPYQ 24 Bones 28.5 Bones/SOL 0.83 SOL
