@@ -34,13 +34,14 @@ async function getListings() {
         if (found) {
             nft.listing = `https://magiceden.io/item-details/${nft.mint}`;
             nft.bones = parseInt(found.Bones);
-            nft.ratio = parseInt(found.Bones) / (nft.price * 1.0145);
+            nft.b2s = parseInt(found.Bones) / nft.price;
+            nft.s2b = nft.price / parseInt(found.Bones);
             delete nft.mint;
         }
     });
 
-    const top = listings.sort((a, b) => b.ratio - a.ratio).slice(0, 20);
+    const top = listings.sort((a, b) => b.b2s - a.b2s).slice(0, 20);
     top.forEach(nft => {
-        console.log(nft.listing, nft.bones, 'Bones', parseFloat(nft.ratio.toFixed(2)), 'Bones/SOL', nft.price, 'SOL');
+        console.log(nft.listing, '=', nft.bones, 'Bones,', parseFloat(nft.b2s.toFixed(3)), 'Bones/SOL,', parseFloat(nft.s2b.toFixed(3)), 'SOL/Bones,', nft.price, 'SOL');
     });
 })();
