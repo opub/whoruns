@@ -1,4 +1,4 @@
-rank,wallet,rundead,bones,fastest,slowest,,last updated 2023-03-24T20:08:19.452Z
+rank,wallet,rundead,bones,fastest,slowest,,last updated 2023-03-24T20:32:36.797Z
 1,4g634dgGhcNp62t2WDjVQxVyAC1NjyKcjJH8NKvUwyp2,4749,76511,1,0
 2,5R3qRn9ct8tjgxDSvWFxbdsAowxxJKwqwFGjVx2XJ7eq,7,11970,1,1
 3,GjNdrRApio959vCoqkvwfApWbZxmzLarxRrxur5RCy4G,1,11541,1,1
@@ -10,7 +10,7 @@ rank,wallet,rundead,bones,fastest,slowest,,last updated 2023-03-24T20:08:19.452Z
 9,FMxrPUn7AUVZHWQGPQWiMJ7GopEyDDrvmSkL5tzJsJbD,134,5047,1,0
 10,3cgYNetTxQomGsURNoMndxZ5uFnmL5ajbsXT6d8Tb2Pt,1,4937,1,1
 11,AZpWn85w2fRcT1iX1K5kxJhNJwCTVAL1dh5FgBzALE4E,4,4720,1,1
-12,4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue,88,4589,1,0
+12,4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue,89,4601,1,0
 13,DqF5veeFnNCDhVytN9pEaJe5kjSAz9SwJDoce3g5iApk,260,4061,1,0
 14,EjnypGiTDdrou7fdBsX5E6iG2EhwJDA4osheLECT6tjf,248,3863,1,1
 15,HwXo9tHC7T8exg3zHuUCanQkxGqKMeEHaPTXfumGALps,1,3707,1,1
@@ -32,7 +32,7 @@ rank,wallet,rundead,bones,fastest,slowest,,last updated 2023-03-24T20:08:19.452Z
 31,5KDukWyEY5qeKeymEWxmAo4Jtae3VqZpNVonGfkPxqeE,100,1633,1,1
 32,PETAR7XdL94rHWo2UgiNHM3BX9E6BXPoWBYubJPD1q5,42,1388,1,1
 33,8Vqq6bwjXPB98tYmQ9AHyyq9gBUiioERm3745Gy9Qr2,72,1118,1,1
-34,emp1EbsPB3GJ2c9b8hTtJ15wkDHWYUeyyxv6pDDN3DV,27,1042,1,1
+34,AM7kkhTWdEy1yzxatBu9wGSwawaP5VtiLqkfYGpa4uuE,27,1042,1,1
 35,5qpcXSxgcW7QdRF4En6A8Mrc8S8BZSRErtfPvwYpDonZ,63,1038,1,1
 36,HaDG4mMkmbR1Q9Ntj5eEYUDq5bEzLc5mUyAqWjCHovgN,57,983,1,1
 37,Frm21n9Pzqa19Q4kpUC2hWxKL8br3am83LRaynZn2ecM,60,955,1,1
@@ -83,7 +83,7 @@ rank,wallet,rundead,bones,fastest,slowest,,last updated 2023-03-24T20:08:19.452Z
 82,9S8zA6qSaAiSsHyKFvCWUhKngSXWL7BA3VgxPZ8gkPsn,13,400,1,0
 83,4KuqFG6JXaALyawiFhwuD6gcsBS5zHmCC6UPwBjEHkwz,1,396,0,0
 84,9AarpZPtb7qRnbD7kLAVQc3oojPvW22EUt8NABzyefrp,24,383,1,1
-85,CevKaLgeHotRcmnpdZxkJviHc3pYhkJ8tcKF7UuYsCfY,12,370,1,1
+85,CevKaLgeHotRcmnpdZxkJviHc3pYhkJ8tcKF7UuYsCfY,1,370,1,1
 86,Gka16Rx3vNjP7shsejUygLsrEngxcV89QGart4fMXHkK,22,364,1,1
 87,9oV51ffXvLUcKQuJZFkEwECdcBzFiUg4z8rpRYUo1MiK,24,363,1,1
 88,5QtqzXJDQbbVZrrWJhWcEFMZpCkcEM4WqBJLbGiPTQy5,20,362,1,1
@@ -199,7 +199,7 @@ rank,wallet,rundead,bones,fastest,slowest,,last updated 2023-03-24T20:08:19.452Z
 198,AsmRseY3sjGtTa3LceQXuh66yPg6AUTBMsFprbnbWuX3,13,172,1,1
 199,63Kaxzs8BxXh7sPZHDnAy9HwvkeLwJ3mF33EcXKSjpT9,12,172,1,1
 200,7ZHS5iQHec2s8Jxu2wmiJs8jPPCupYHyu2b4rG4hFsWx,9,172,1,0
-201,65ZjMikDG1DQLQNSt6Q1JMXgKt79v4hWSwnctj3NCw12,10,171,1,1
+201,8exgFC3LFMPmXsGbpwZNgNnfR7NdyUVdZ2Rz1uCBiAuE,10,171,1,1
 202,DZ619EDjX7MjVijYZ3p6gFZCgVwg7iM3EpHtAYccTHJc,12,170,1,1
 203,BcZBAyghn8visi3U58ZjS2gZqVm77AyxbHsadw9zzn1e,1,169,1,1
 204,Es6c3Mp1f4NbGroqwbCMAYd5Ex62mfm9hP8jkUET3w41,12,165,1,1
