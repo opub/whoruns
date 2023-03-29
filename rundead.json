@@ -45167,24 +45167,6 @@
   "owns": 144
 },
 {
-  "mint": "FYhdMbhEqFoVfxtM7NYdpsiitKHwhBeb5TEEsRTjZea4",
-  "name": "Rundead #18128",
-  "image": "https://arweave.net/ziADxSQ5k8biW31WqvG5QjhFCIi9qOwbWOtVuZKx6Xw?ext=png",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "7",
-  "Deadband": "White Deadband",
-  "Hair": "Mess Galaxy",
-  "Face": "White NGMI",
-  "Right Hand": "Right Glove Blessed",
-  "Upper Body": "Breaker Coral",
-  "Lower Body": "Tight Clash",
-  "Shoes": "Erasers",
-  "Body": "Dead Ahead",
-  "Background": "Dirty",
-  "owns": 144
-},
-{
   "mint": "FWbxCeuZZyJLw6oAZN7gcDHp6G8UFZ6BNHYgkrbZ5g8R",
   "name": "Rundead #8419",
   "image": "https://arweave.net/dOUKQzGJa6Gp2swXYCGYEHOH-VYpcNOFgxZK531UHRI",
@@ -45201,6 +45183,24 @@
   "Socks": "Godly",
   "Body": "Easy Meat",
   "Background": "Cross Country",
+  "owns": 144
+},
+{
+  "mint": "FYhdMbhEqFoVfxtM7NYdpsiitKHwhBeb5TEEsRTjZea4",
+  "name": "Rundead #18128",
+  "image": "https://arweave.net/ziADxSQ5k8biW31WqvG5QjhFCIi9qOwbWOtVuZKx6Xw?ext=png",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "7",
+  "Deadband": "White Deadband",
+  "Hair": "Mess Galaxy",
+  "Face": "White NGMI",
+  "Right Hand": "Right Glove Blessed",
+  "Upper Body": "Breaker Coral",
+  "Lower Body": "Tight Clash",
+  "Shoes": "Erasers",
+  "Body": "Dead Ahead",
+  "Background": "Dirty",
   "owns": 144
 },
 {
@@ -62700,18 +62700,8 @@
 {
   "mint": "HY3pXyrEEFGPZQRkUR1MfwckqLvdKXyaHdMdZa8e9ygR",
   "name": "Rundead #11024",
-  "image": "https://arweave.net/D8_nZa5rC9J8mgY9tg_zBsF1ZJtO10INjQdm3azizQk",
+  "image": "",
   "owner": "Y18nJ6K6fjhd2m4WUZ4iGLWnqn8D1V2Z33SRNTK1Ajw",
-  "Bones": "42",
-  "Deadband": "Clash Deadband",
-  "Face": "White Yummy",
-  "Left Hand": "Left Band Sweaty",
-  "Upper Body": "Tank Purple",
-  "Lower Body": "Tight Black",
-  "Shoes": "Snacks",
-  "Socks": "Sundays",
-  "Body": "Dead Last",
-  "Background": "Gravel",
   "owns": 20
 },
 {
