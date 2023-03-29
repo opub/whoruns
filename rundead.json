@@ -45544,22 +45544,6 @@
   "owns": 144
 },
 {
-  "mint": "HvorPYegsjVsTuXmb5mKfoStPkK5fKjmJeQe3UG1w3CB",
-  "name": "Rundead #17177",
-  "image": "https://arweave.net/ZRtkG5Tud81ck-bQI6wJFQctEIxxkGewJsre0K-tEVg",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "18",
-  "Deadband": "Blessed Deadband",
-  "Face": "Yollow Checkers",
-  "Upper Body": "Breaker Clash",
-  "Lower Body": "Tight Sweaty",
-  "Shoes": "Monos",
-  "Body": "Dead on Arrival",
-  "Background": "Dusk",
-  "owns": 144
-},
-{
   "mint": "HRAKJimY1WSVb8szFkeqRzeUHchehpC1pf4Dvdj2qfAS",
   "name": "Rundead #17404",
   "image": "https://arweave.net/TXUZ4nonNzFfCJaD42WM_trpfLuYtHkPI-nQC4Lask4",
@@ -45627,6 +45611,22 @@
   "Shoes": "Filth",
   "Body": "Bare Bones",
   "Background": "Dust",
+  "owns": 144
+},
+{
+  "mint": "HvorPYegsjVsTuXmb5mKfoStPkK5fKjmJeQe3UG1w3CB",
+  "name": "Rundead #17177",
+  "image": "https://arweave.net/ZRtkG5Tud81ck-bQI6wJFQctEIxxkGewJsre0K-tEVg",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "18",
+  "Deadband": "Blessed Deadband",
+  "Face": "Yollow Checkers",
+  "Upper Body": "Breaker Clash",
+  "Lower Body": "Tight Sweaty",
+  "Shoes": "Monos",
+  "Body": "Dead on Arrival",
+  "Background": "Dusk",
   "owns": 144
 },
 {
