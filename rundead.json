@@ -43754,25 +43754,6 @@
   "owns": 144
 },
 {
-  "mint": "4pz9U6ZdzsxHVBUdB3KfZ14mKdrgLhtnRFRrRdDS2si5",
-  "name": "Rundead #9912",
-  "image": "https://arweave.net/EkBSMtLBBy2U8cDf_VQlZTsCCybrTJq0WbDRe-YTzGw",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "19",
-  "Deadband": "Desert Deadband",
-  "Hair": "Side Stitch White",
-  "Face": "Rose Little Bolt Lefty",
-  "Left Hand": "Left Glove Lavender",
-  "Right Hand": "Right Glove Blue",
-  "Upper Body": "Hood Galaxy",
-  "Lower Body": "Twofer Black",
-  "Shoes": "Erasers",
-  "Body": "Dead on Arrival",
-  "Background": "Sea Foam",
-  "owns": 144
-},
-{
   "mint": "4SGRqjxnndeePzvknR4inob34DvMqcG48eCdiHbSXbSe",
   "name": "Rundead #16481",
   "image": "https://arweave.net/yTTxp0mvNZ35mvdLgIeVS6pNcy39wAVph86qjDSjwPo",
@@ -43789,6 +43770,25 @@
   "Socks": "Candy",
   "Body": "Bone to Pick",
   "Background": "Rusty",
+  "owns": 144
+},
+{
+  "mint": "4pz9U6ZdzsxHVBUdB3KfZ14mKdrgLhtnRFRrRdDS2si5",
+  "name": "Rundead #9912",
+  "image": "https://arweave.net/EkBSMtLBBy2U8cDf_VQlZTsCCybrTJq0WbDRe-YTzGw",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "19",
+  "Deadband": "Desert Deadband",
+  "Hair": "Side Stitch White",
+  "Face": "Rose Little Bolt Lefty",
+  "Left Hand": "Left Glove Lavender",
+  "Right Hand": "Right Glove Blue",
+  "Upper Body": "Hood Galaxy",
+  "Lower Body": "Twofer Black",
+  "Shoes": "Erasers",
+  "Body": "Dead on Arrival",
+  "Background": "Sea Foam",
   "owns": 144
 },
 {
@@ -44742,22 +44742,6 @@
   "owns": 144
 },
 {
-  "mint": "BUTHJLZRTg7tnaN8fFkpdq8CNiTJs74enF3zoXxMhkBT",
-  "name": "Rundead #2493",
-  "image": "https://arweave.net/cXuUvhzoWahHbewuVhFxUbMbekZ6ypg4IrDx993ULyQ",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "10",
-  "Deadband": "Blur Deadband",
-  "Face": "White Super Insanely Mad",
-  "Upper Body": "Breaker Green",
-  "Lower Body": "Twofer Sweaty",
-  "Shoes": "Bad Hombre",
-  "Body": "T-Boned",
-  "Background": "Superbloom",
-  "owns": 144
-},
-{
   "mint": "BRqiLzSC5m5NrTe8oeXELeG4u4FeWUHLrMhCfKBvwgY6",
   "name": "Rundead #8995",
   "image": "https://arweave.net/6fcegTjIPKqvJ-A08ztAYDgMpYKT-2zg2g7WAa577ZM",
@@ -44792,6 +44776,22 @@
   "Socks": "Godly",
   "Body": "T-Boned",
   "Background": "Gravel",
+  "owns": 144
+},
+{
+  "mint": "BUTHJLZRTg7tnaN8fFkpdq8CNiTJs74enF3zoXxMhkBT",
+  "name": "Rundead #2493",
+  "image": "https://arweave.net/cXuUvhzoWahHbewuVhFxUbMbekZ6ypg4IrDx993ULyQ",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "10",
+  "Deadband": "Blur Deadband",
+  "Face": "White Super Insanely Mad",
+  "Upper Body": "Breaker Green",
+  "Lower Body": "Twofer Sweaty",
+  "Shoes": "Bad Hombre",
+  "Body": "T-Boned",
+  "Background": "Superbloom",
   "owns": 144
 },
 {
