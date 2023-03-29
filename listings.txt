@@ -1,4 +1,4 @@
-updated Wed Mar 29 13:38:17 UTC 2023
+updated Wed Mar 29 14:29:50 UTC 2023
 https://magiceden.io/item-details/H9Vb7vQp7qo8WqKqr7pJg9iwwWgsFASZkQEPVmsoMkR = 18 Bones, 60 Bones/SOL, 0.017 SOL/Bones, 0.3 SOL
 https://magiceden.io/item-details/B87jrhDA1amwfqNLpNs7fcordae6NERNb3dLoB81pr1f = 17 Bones, 58.02 Bones/SOL, 0.017 SOL/Bones, 0.293 SOL
 https://magiceden.io/item-details/NRiYt8J2Fytgjjt8qRCbNEX2WsC6bfDZSbGi2QLHr3C = 316 Bones, 54.957 Bones/SOL, 0.018 SOL/Bones, 5.75 SOL
@@ -12,10 +12,10 @@ https://magiceden.io/item-details/B3SfhM3QpajBdkB2b7ALSG4k8K1W2s4aaW1bKzanHDpz =
 https://magiceden.io/item-details/J85mDCP8r2ygijQ14rbkqW7nBX2GYdcnNeMpcGfAhKfT = 15 Bones, 50 Bones/SOL, 0.02 SOL/Bones, 0.3 SOL
 https://magiceden.io/item-details/5oMcXvvrRU3h1XR4r4xyR3JajhRFsMRkeninYsHPXRhn = 15 Bones, 50 Bones/SOL, 0.02 SOL/Bones, 0.3 SOL
 https://magiceden.io/item-details/AzwuCXjVYacKwGS9DjrT1e1vxVvDngFqdzpMhUQYLyhN = 15 Bones, 50 Bones/SOL, 0.02 SOL/Bones, 0.3 SOL
-https://magiceden.io/item-details/2M4Pj5Dh28TFsHHNwZitJr4b4dtF9SWo1ZWGtY1hWSVZ = 15 Bones, 50 Bones/SOL, 0.02 SOL/Bones, 0.3 SOL
 https://magiceden.io/item-details/CzFZiJo3vtCAfXzt3KaFgC9BeR1eMoprSbF1zgiyMCBZ = 15 Bones, 50 Bones/SOL, 0.02 SOL/Bones, 0.3 SOL
 https://magiceden.io/item-details/JDVSRnA5Tn1m8tc97uai3vck4QzZpuVTuoAWbJaYzLoM = 20 Bones, 50 Bones/SOL, 0.02 SOL/Bones, 0.4 SOL
 https://magiceden.io/item-details/C7nNpBVhAWaFCDCVNa8xhurygmZR16ncFaMGy1xKPEuj = 14 Bones, 46.667 Bones/SOL, 0.021 SOL/Bones, 0.3 SOL
 https://magiceden.io/item-details/4Lt8pmHU3CziLij2f7YF84KSAUycKvjgD48q6GQ2ToE1 = 14 Bones, 46.667 Bones/SOL, 0.021 SOL/Bones, 0.3 SOL
 https://magiceden.io/item-details/EASuWT7rVhb9JuH1UwGvEfmmzQEGU6QiGnm17LHCFmp5 = 14 Bones, 46.667 Bones/SOL, 0.021 SOL/Bones, 0.3 SOL
 https://magiceden.io/item-details/9XFiDcU1sqLr38nocikNgzAZF7iBk9XVsFEXgdMhBdAx = 14 Bones, 46.667 Bones/SOL, 0.021 SOL/Bones, 0.3 SOL
+https://magiceden.io/item-details/8BFxn7WnuTZ9BpmijnwxR5RsXiVomySynbUt3qkv4fib = 14 Bones, 46.667 Bones/SOL, 0.021 SOL/Bones, 0.3 SOL
