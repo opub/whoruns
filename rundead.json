@@ -43684,23 +43684,6 @@
   "owns": 147
 },
 {
-  "mint": "4PMbmTb5TwMBkLmUTSjX6T4svx9sNwMU7J227AjLrEGh",
-  "name": "Rundead #19636",
-  "image": "https://arweave.net/eYBZAGriy09H_M8Nj0f5KC-l221bfnfDe93DQmTUyfg",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "10",
-  "Deadband": "Hayward Deadband",
-  "Face": "White So Pumped",
-  "Upper Body": "Breaker Invasion",
-  "Lower Body": "Norts Black",
-  "Shoes": "Trips",
-  "Socks": "Greenish",
-  "Body": "Dead Last",
-  "Background": "Sandy",
-  "owns": 147
-},
-{
   "mint": "4SGRqjxnndeePzvknR4inob34DvMqcG48eCdiHbSXbSe",
   "name": "Rundead #16481",
   "image": "https://arweave.net/yTTxp0mvNZ35mvdLgIeVS6pNcy39wAVph86qjDSjwPo",
@@ -43717,6 +43700,23 @@
   "Socks": "Candy",
   "Body": "Bone to Pick",
   "Background": "Rusty",
+  "owns": 147
+},
+{
+  "mint": "4PMbmTb5TwMBkLmUTSjX6T4svx9sNwMU7J227AjLrEGh",
+  "name": "Rundead #19636",
+  "image": "https://arweave.net/eYBZAGriy09H_M8Nj0f5KC-l221bfnfDe93DQmTUyfg",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "10",
+  "Deadband": "Hayward Deadband",
+  "Face": "White So Pumped",
+  "Upper Body": "Breaker Invasion",
+  "Lower Body": "Norts Black",
+  "Shoes": "Trips",
+  "Socks": "Greenish",
+  "Body": "Dead Last",
+  "Background": "Sandy",
   "owns": 147
 },
 {
@@ -45628,6 +45628,24 @@
   "owns": 147
 },
 {
+  "mint": "JAX594563UyZJGEMCMNgXZVQnQE4sxV3uRMpGVHDXLw1",
+  "name": "Rundead #12891",
+  "image": "https://arweave.net/sTKFasJesIFFGiKUlDG-4WGsGLucflDHPWqFkYAyuZk",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "16",
+  "Deadband": "Blur Deadband",
+  "Hair": "Mess Purple",
+  "Face": "Yollow Just Eat Me Already",
+  "Upper Body": "Tank Blue",
+  "Lower Body": "Tight White",
+  "Shoes": "Erasers",
+  "Socks": "Soxy",
+  "Body": "Bone Head",
+  "Background": "Dirty",
+  "owns": 147
+},
+{
   "mint": "J6nK96F54HAbPpCDYbpapZvqekYK22QbTrzGpC2b4UbL",
   "name": "Rundead #8456",
   "image": "https://arweave.net/y-EJzWW3O4e7npXZ9vSZwyEUqRu81Rpln3WSid0HZ08",
@@ -45661,24 +45679,6 @@
   "Socks": "Darned",
   "Body": "Dead Ahead",
   "Background": "Superbloom",
-  "owns": 147
-},
-{
-  "mint": "JAX594563UyZJGEMCMNgXZVQnQE4sxV3uRMpGVHDXLw1",
-  "name": "Rundead #12891",
-  "image": "https://arweave.net/sTKFasJesIFFGiKUlDG-4WGsGLucflDHPWqFkYAyuZk",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "16",
-  "Deadband": "Blur Deadband",
-  "Hair": "Mess Purple",
-  "Face": "Yollow Just Eat Me Already",
-  "Upper Body": "Tank Blue",
-  "Lower Body": "Tight White",
-  "Shoes": "Erasers",
-  "Socks": "Soxy",
-  "Body": "Bone Head",
-  "Background": "Dirty",
   "owns": 147
 },
 {
