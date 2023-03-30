@@ -52244,24 +52244,6 @@
   "owns": 3
 },
 {
-  "mint": "5fde18JKu7QWChHzWmbDkEAHhTHu7zGUxmkps7HjxA8F",
-  "name": "Rundead #11044",
-  "image": "https://arweave.net/jzuehhfqY21yOj0PUyaCPhqjKix7M7hmV1mxrTVg76Q",
-  "owner": "EW3dNZNkcFXXz1PoGykE5bQR8J4PZbQbsauW2eD2x9bc",
-  "Bones": "459",
-  "Special": "Third Leg",
-  "Deadband": "Sweaty Deadband",
-  "Face": "Yollow Glory Days",
-  "Right Hand": "Right Band Purple",
-  "Upper Body": "Hood Ice",
-  "Lower Body": "Tight Black",
-  "Shoes": "Snacks",
-  "Socks": "Thanks Dad",
-  "Body": "T-Boned",
-  "Background": "Cross Country",
-  "owns": 1
-},
-{
   "mint": "8Rx97aQ9t3D2mdbJ87UUJEGboTfFuY7FtQibj75JsPZq",
   "name": "Rundead #12886",
   "image": "https://arweave.net/WqDV8CbrLvCkHvXcn9tmmhvQ2a7yWdmI2rjti9xVJQA",
@@ -69578,6 +69560,24 @@
   "Body": "T-Boned",
   "Background": "Gravel",
   "owns": 13
+},
+{
+  "mint": "5fde18JKu7QWChHzWmbDkEAHhTHu7zGUxmkps7HjxA8F",
+  "name": "Rundead #11044",
+  "image": "https://arweave.net/jzuehhfqY21yOj0PUyaCPhqjKix7M7hmV1mxrTVg76Q",
+  "owner": "EW3dNZNkcFXXz1PoGykE5bQR8J4PZbQbsauW2eD2x9bc",
+  "Bones": "459",
+  "Special": "Third Leg",
+  "Deadband": "Sweaty Deadband",
+  "Face": "Yollow Glory Days",
+  "Right Hand": "Right Band Purple",
+  "Upper Body": "Hood Ice",
+  "Lower Body": "Tight Black",
+  "Shoes": "Snacks",
+  "Socks": "Thanks Dad",
+  "Body": "T-Boned",
+  "Background": "Cross Country",
+  "owns": 1
 },
 {
   "mint": "bN8iDgG5iCr3iWcuk9GKMVvRLb75rjjfDRXM1qATyZc",
