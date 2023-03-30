@@ -45133,23 +45133,6 @@
   "owns": 147
 },
 {
-  "mint": "FuV58dDx2x6K1tvYKDPHcP1ZZ1Qgv7quTWKPCK2czZJ1",
-  "name": "Rundead #12031",
-  "image": "https://arweave.net/MY5rD14rDj8nh1fAGwA6TthdEJBIIStoABSi5UxclSg",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "9",
-  "Deadband": "Black Deadband",
-  "Face": "Rose Ok",
-  "Upper Body": "Long Red",
-  "Lower Body": "Twofer Coral",
-  "Shoes": "Just the Tips",
-  "Socks": "Darned",
-  "Body": "Bone Head",
-  "Background": "Dirty",
-  "owns": 147
-},
-{
   "mint": "FYhdMbhEqFoVfxtM7NYdpsiitKHwhBeb5TEEsRTjZea4",
   "name": "Rundead #18128",
   "image": "https://arweave.net/ziADxSQ5k8biW31WqvG5QjhFCIi9qOwbWOtVuZKx6Xw?ext=png",
@@ -45165,25 +45148,6 @@
   "Shoes": "Erasers",
   "Body": "Dead Ahead",
   "Background": "Dirty",
-  "owns": 147
-},
-{
-  "mint": "FWbxCeuZZyJLw6oAZN7gcDHp6G8UFZ6BNHYgkrbZ5g8R",
-  "name": "Rundead #8419",
-  "image": "https://arweave.net/dOUKQzGJa6Gp2swXYCGYEHOH-VYpcNOFgxZK531UHRI",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "12",
-  "Deadband": "Blue Deadband",
-  "Hair": "Mess Galaxy",
-  "Face": "White Dead in the Headlights",
-  "Left Hand": "Left Band Pink",
-  "Upper Body": "Tank Black",
-  "Lower Body": "Norts Clash",
-  "Shoes": "Cleaners",
-  "Socks": "Godly",
-  "Body": "Easy Meat",
-  "Background": "Cross Country",
   "owns": 147
 },
 {
@@ -45204,6 +45168,25 @@
   "Socks": "Darned",
   "Body": "Brain Dead",
   "Background": "Superbloom",
+  "owns": 147
+},
+{
+  "mint": "FWbxCeuZZyJLw6oAZN7gcDHp6G8UFZ6BNHYgkrbZ5g8R",
+  "name": "Rundead #8419",
+  "image": "https://arweave.net/dOUKQzGJa6Gp2swXYCGYEHOH-VYpcNOFgxZK531UHRI",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "12",
+  "Deadband": "Blue Deadband",
+  "Hair": "Mess Galaxy",
+  "Face": "White Dead in the Headlights",
+  "Left Hand": "Left Band Pink",
+  "Upper Body": "Tank Black",
+  "Lower Body": "Norts Clash",
+  "Shoes": "Cleaners",
+  "Socks": "Godly",
+  "Body": "Easy Meat",
+  "Background": "Cross Country",
   "owns": 147
 },
 {
@@ -45682,22 +45665,6 @@
   "owns": 147
 },
 {
-  "mint": "QnqCBQvU25LoFD6GmeV7FGRtVmt8AsMGYQVv5XutJmX",
-  "name": "Rundead #18496",
-  "image": "https://arweave.net/3Z8glQCDEKjUBkGzL5bEZitq1oIqfzY9VY3xO1sI-Uw",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Bones": "2342",
-  "Miles": "1",
-  "Deadband": "Red Deadband",
-  "Face": "White Little Bolt Lefty",
-  "Upper Body": "Breaker Lavender",
-  "Lower Body": "Tight White",
-  "Shoes": "Snacks",
-  "Body": "Bare Bones",
-  "Background": "Dirty",
-  "owns": 147
-},
-{
   "mint": "MAWkKz8BDbVsmmiZY2YTgmfmvyMXZThkEHANDtaQBo8",
   "name": "Rundead #545",
   "image": "https://arweave.net/JeKSJS1aH6arpfoeBXbZ2RbJQ0Oj0qoGETGyyBDOllo?ext=png",
@@ -45713,6 +45680,22 @@
   "Shoes": "Bad Hombre",
   "Body": "Dead Ahead",
   "Background": "Gravel",
+  "owns": 147
+},
+{
+  "mint": "QnqCBQvU25LoFD6GmeV7FGRtVmt8AsMGYQVv5XutJmX",
+  "name": "Rundead #18496",
+  "image": "https://arweave.net/3Z8glQCDEKjUBkGzL5bEZitq1oIqfzY9VY3xO1sI-Uw",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Bones": "2342",
+  "Miles": "1",
+  "Deadband": "Red Deadband",
+  "Face": "White Little Bolt Lefty",
+  "Upper Body": "Breaker Lavender",
+  "Lower Body": "Tight White",
+  "Shoes": "Snacks",
+  "Body": "Bare Bones",
+  "Background": "Dirty",
   "owns": 147
 },
 {
@@ -69560,6 +69543,23 @@
   "Body": "T-Boned",
   "Background": "Gravel",
   "owns": 13
+},
+{
+  "mint": "FuV58dDx2x6K1tvYKDPHcP1ZZ1Qgv7quTWKPCK2czZJ1",
+  "name": "Rundead #12031",
+  "image": "https://arweave.net/MY5rD14rDj8nh1fAGwA6TthdEJBIIStoABSi5UxclSg",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "9",
+  "Deadband": "Black Deadband",
+  "Face": "Rose Ok",
+  "Upper Body": "Long Red",
+  "Lower Body": "Twofer Coral",
+  "Shoes": "Just the Tips",
+  "Socks": "Darned",
+  "Body": "Bone Head",
+  "Background": "Dirty",
+  "owns": 147
 },
 {
   "mint": "5fde18JKu7QWChHzWmbDkEAHhTHu7zGUxmkps7HjxA8F",
