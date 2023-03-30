@@ -44691,22 +44691,6 @@
   "owns": 147
 },
 {
-  "mint": "Bue9p1bUv7dTabfuUj2e6PPR2fmy52gpn5zgsioNvzi8",
-  "name": "Rundead #1008",
-  "image": "https://arweave.net/S0c681kxaliRtqGSfcyUOA1u2dwvt5emmcD9mV-CZBo",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "11",
-  "Deadband": "Purple Deadband",
-  "Face": "White Super Insanely Mad",
-  "Upper Body": "Short White",
-  "Lower Body": "Twofer White",
-  "Shoes": "Clashes",
-  "Body": "Bone Head",
-  "Background": "Rusty",
-  "owns": 147
-},
-{
   "mint": "BqWasE7xXtgY2PZgV7XYtHbJ3Ze8qyBzqxRnWNREDrwD",
   "name": "Rundead #19845",
   "image": "https://arweave.net/DraOFhQm0V8ledDOG1kBLgTFXR40rQOJbeWfJP3lU8Q",
@@ -44722,6 +44706,22 @@
   "Shoes": "Blood Stained",
   "Body": "Brain Dead",
   "Background": "Dust",
+  "owns": 147
+},
+{
+  "mint": "Bue9p1bUv7dTabfuUj2e6PPR2fmy52gpn5zgsioNvzi8",
+  "name": "Rundead #1008",
+  "image": "https://arweave.net/S0c681kxaliRtqGSfcyUOA1u2dwvt5emmcD9mV-CZBo",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "11",
+  "Deadband": "Purple Deadband",
+  "Face": "White Super Insanely Mad",
+  "Upper Body": "Short White",
+  "Lower Body": "Twofer White",
+  "Shoes": "Clashes",
+  "Body": "Bone Head",
+  "Background": "Rusty",
   "owns": 147
 },
 {
