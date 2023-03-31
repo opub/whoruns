@@ -63374,24 +63374,6 @@
   "owns": 4
 },
 {
-  "mint": "Av5vonNGfjo8zmTCKauSJNJGfcWWpEN72Be4ejWpFfsF",
-  "name": "Rundead #17427",
-  "image": "https://arweave.net/TueSYY4qTTgTUJPGoD1qBwQVxZlG4EP3iRdN6M3W5RQ?ext=png",
-  "owner": "erDDZCxYTaGYVBUnHqzBeWjzq9FPb1KpeXgcj4AoxLP",
-  "Miles": "1",
-  "Bones": "18",
-  "Deadband": "Blessed Deadband",
-  "Face": "Rose Chex",
-  "Left Hand": "Left Band Pink",
-  "Upper Body": "Tank White",
-  "Lower Body": "Twofer White",
-  "Shoes": "Mooners",
-  "Socks": "Godly",
-  "Body": "Meat Cute",
-  "Background": "Rusty",
-  "owns": 1
-},
-{
   "mint": "E9dZxLNJUfQtxRgBxdP6RkJpCuiwzxvdsRxs4AXdkx96",
   "name": "Rundead #10026",
   "image": "https://arweave.net/6piISV0MkD1NnRnFdirBv4YBHPjV2LOW6s48Ia3x3P4",
@@ -64475,6 +64457,23 @@
   "owns": 5
 },
 {
+  "mint": "GNaTePu1ru7QyPgi9ekL8ND1AwvpMmDtYUUCnDYK5zic",
+  "name": "Rundead #16040",
+  "image": "https://arweave.net/9yhmg287TvpaqiPM2Q3jgk6-HNHLsvsydvMt2osLf3c?ext=png",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Bones": "82",
+  "Miles": "1",
+  "Deadband": "Purple Deadband",
+  "Face": "White Checkers",
+  "Upper Body": "Breaker Pink",
+  "Lower Body": "Tight Blessed",
+  "Shoes": "Cleaners",
+  "Socks": "Ankle Biters",
+  "Body": "Dead Last",
+  "Background": "Rusty",
+  "owns": 5
+},
+{
   "mint": "37uAYkXMTARietXQ1TLXn569bPkbScqJxfUKnkR2HiQ8",
   "name": "Rundead #9619",
   "image": "https://arweave.net/U5IH3QOeSrL5Zlgb8bXZQpN1YT6l73MoDiqPM2zkH_c",
@@ -64490,6 +64489,24 @@
   "Body": "Dead on Arrival",
   "Background": "Gravel",
   "owns": 5
+},
+{
+  "mint": "Av5vonNGfjo8zmTCKauSJNJGfcWWpEN72Be4ejWpFfsF",
+  "name": "Rundead #17427",
+  "image": "https://arweave.net/TueSYY4qTTgTUJPGoD1qBwQVxZlG4EP3iRdN6M3W5RQ?ext=png",
+  "owner": "erDDZCxYTaGYVBUnHqzBeWjzq9FPb1KpeXgcj4AoxLP",
+  "Miles": "1",
+  "Bones": "18",
+  "Deadband": "Blessed Deadband",
+  "Face": "Rose Chex",
+  "Left Hand": "Left Band Pink",
+  "Upper Body": "Tank White",
+  "Lower Body": "Twofer White",
+  "Shoes": "Mooners",
+  "Socks": "Godly",
+  "Body": "Meat Cute",
+  "Background": "Rusty",
+  "owns": 1
 },
 {
   "mint": "31RaqVNj4nFr4ixQ25NabvjBEZYKcxQ2GeAeNtrNGdSJ",
@@ -64508,23 +64525,6 @@
   "Body": "Easy Meat",
   "Background": "Superbloom",
   "owns": 1
-},
-{
-  "mint": "GNaTePu1ru7QyPgi9ekL8ND1AwvpMmDtYUUCnDYK5zic",
-  "name": "Rundead #16040",
-  "image": "https://arweave.net/9yhmg287TvpaqiPM2Q3jgk6-HNHLsvsydvMt2osLf3c?ext=png",
-  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
-  "Bones": "82",
-  "Miles": "1",
-  "Deadband": "Purple Deadband",
-  "Face": "White Checkers",
-  "Upper Body": "Breaker Pink",
-  "Lower Body": "Tight Blessed",
-  "Shoes": "Cleaners",
-  "Socks": "Ankle Biters",
-  "Body": "Dead Last",
-  "Background": "Rusty",
-  "owns": 5
 },
 {
   "mint": "6h6hr5QkWEsuEk8nzFosMNBosfbLzC5HG53r2ja7u3Vs",
