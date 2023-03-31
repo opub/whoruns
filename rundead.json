@@ -64381,7 +64381,7 @@
   "Shoes": "Cleaners",
   "Body": "Bite the Dust",
   "Background": "Rusty",
-  "owns": 3
+  "owns": 4
 },
 {
   "mint": "BCgK7NgL4CDhG2fhmErbQX3nLKWtLQgrb1H5rQf42BXJ",
@@ -64400,7 +64400,7 @@
   "Shoes": "Cleaners",
   "Body": "T-Boned",
   "Background": "Dust",
-  "owns": 3
+  "owns": 4
 },
 {
   "mint": "C9uzCpyiJGJX4sjNF84ZJrU2CjMo94QwBHgzqTMz1JG",
@@ -64418,7 +64418,24 @@
   "Socks": "Ankle Biters",
   "Body": "Bare Bones",
   "Background": "Cross Country",
-  "owns": 3
+  "owns": 4
+},
+{
+  "mint": "7Jyt6S2NXvdPcufEkdnxvJjX3288ypCAGhfac6W3gX8g",
+  "name": "Rundead #9047",
+  "image": "https://arweave.net/NxWVUN0aloxbbsTiu_jH8nKpHm31VMLeIyTSS2KBTFw",
+  "owner": "joHAqTbC78cz96sLHAqcjcNt7QjPHm38ARWdLxLNJ1b",
+  "Miles": "1",
+  "Bones": "12",
+  "Deadband": "Punch Deadband",
+  "Face": "Red Super Insanely Mad",
+  "Upper Body": "Short Invasion",
+  "Lower Body": "Norts Black",
+  "Shoes": "Snacks",
+  "Socks": "Candy",
+  "Body": "Bare Bones",
+  "Background": "Slate",
+  "owns": 4
 },
 {
   "mint": "9z2EG8ZeigwnSnQ82kHRbmFqXHZq6ZRJqCyieYvNNwho",
