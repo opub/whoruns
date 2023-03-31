@@ -1764,7 +1764,7 @@
   "Shoes": "Clashes",
   "Body": "Bite the Dust",
   "Background": "Dust",
-  "owns": 2
+  "owns": 3
 },
 {
   "mint": "CubjF7KKugtpQ8kgHQMhzeaeAu7BBL1Bj2baQJENetLT",
@@ -1781,7 +1781,7 @@
   "Socks": "Candy",
   "Body": "T-Boned",
   "Background": "Cross Country",
-  "owns": 2
+  "owns": 3
 },
 {
   "mint": "5nR9YVAjkQ7t8s9ty5TENkENijxaxpHvuZkRT11fxJym",
@@ -41075,25 +41075,6 @@
   "owns": 125
 },
 {
-  "mint": "Ab91CB48LLCXiK5Q1nM8evdcnfqVtEZrWT2gadJzNvgP",
-  "name": "Rundead #917",
-  "image": "https://arweave.net/2Pz6LC622jpwTP3c0Zbvm-DRZfOo8CRNLhVzjgkUv9A",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "9",
-  "Deadband": "Pink Deadband",
-  "Hair": "Crew Sweaty",
-  "Face": "White Yummy",
-  "Left Hand": "Left Glove Dessert",
-  "Upper Body": "Tank Punch",
-  "Lower Body": "Tight Ice",
-  "Shoes": "Trips",
-  "Socks": "Candy",
-  "Body": "Bite the Dust",
-  "Background": "Sandy",
-  "owns": 125
-},
-{
   "mint": "AfjBXb3uJxnkq4vjAHbXo8ocKeqq4qPWMWPrBXywCY5M",
   "name": "Rundead #2256",
   "image": "https://arweave.net/G1JUy9M7to67VHCKwLOmUsn-GOqjbqgmr8TPNu3M2zM",
@@ -41141,6 +41122,25 @@
   "Socks": "Nope",
   "Body": "T-Boned",
   "Background": "Dusk",
+  "owns": 125
+},
+{
+  "mint": "Ab91CB48LLCXiK5Q1nM8evdcnfqVtEZrWT2gadJzNvgP",
+  "name": "Rundead #917",
+  "image": "https://arweave.net/2Pz6LC622jpwTP3c0Zbvm-DRZfOo8CRNLhVzjgkUv9A",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "9",
+  "Deadband": "Pink Deadband",
+  "Hair": "Crew Sweaty",
+  "Face": "White Yummy",
+  "Left Hand": "Left Glove Dessert",
+  "Upper Body": "Tank Punch",
+  "Lower Body": "Tight Ice",
+  "Shoes": "Trips",
+  "Socks": "Candy",
+  "Body": "Bite the Dust",
+  "Background": "Sandy",
   "owns": 125
 },
 {
@@ -66830,7 +66830,7 @@
   "mint": "9FDWk6CbFkCoytxY3E6kyQnb4GDFxMdtv1fB4FuFBS3y",
   "name": "Rundead #10932",
   "image": "https://arweave.net/H-nkBIY4es7VjU74jBs3jtfynWqpno49kZ3ass1A118",
-  "owner": "AARZGLHZ7F3Ct4sCjuJyx6Tn161U69tTPufHuSGB1WqQ",
+  "owner": "2FAJugB4fGuzTXd3knoYHUTFj3Ap3WagRp8S5SxnKZBX",
   "Bones": "89",
   "Deadband": "White Deadband",
   "Face": "Mint Nah",
@@ -66841,7 +66841,7 @@
   "Socks": "Soxy",
   "Body": "Dead Last",
   "Background": "Sandy",
-  "owns": 1
+  "owns": 3
 },
 {
   "mint": "DBiFaCW9exGm2fUUnqxFr1KYzqdYMLebG9x1t98XvTJL",
