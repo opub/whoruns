@@ -40093,23 +40093,6 @@
   "owns": 119
 },
 {
-  "mint": "7VHTASHp5V6ERGQLCtTDsjXwB6eNA5EsRb9R3PVwzKtN",
-  "name": "Rundead #4328",
-  "image": "https://arweave.net/rMDYY4bGQtpyAjJvkGS5BOjJi25vM4zHHVRNQxMl9Rg",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "16",
-  "Deadband": "Punch Deadband",
-  "Face": "Mint NGMI",
-  "Upper Body": "Hood Orange",
-  "Lower Body": "Tight Yuck",
-  "Shoes": "Trips",
-  "Socks": "Ankle Biters",
-  "Body": "Dead on Arrival",
-  "Background": "Dirty",
-  "owns": 119
-},
-{
   "mint": "7xGSUb2L9n5h1ms2F6GuE173ukNizncH6hP8BJrW4Rdr",
   "name": "Rundead #11206",
   "image": "https://arweave.net/TKFyBsy182B2ouEgnAHhahQxqJmdsWcduJChckeE3yo?ext=png",
@@ -40125,6 +40108,23 @@
   "Socks": "Stems",
   "Body": "A Little Snack",
   "Background": "Cross Country",
+  "owns": 119
+},
+{
+  "mint": "7VHTASHp5V6ERGQLCtTDsjXwB6eNA5EsRb9R3PVwzKtN",
+  "name": "Rundead #4328",
+  "image": "https://arweave.net/rMDYY4bGQtpyAjJvkGS5BOjJi25vM4zHHVRNQxMl9Rg",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "16",
+  "Deadband": "Punch Deadband",
+  "Face": "Mint NGMI",
+  "Upper Body": "Hood Orange",
+  "Lower Body": "Tight Yuck",
+  "Shoes": "Trips",
+  "Socks": "Ankle Biters",
+  "Body": "Dead on Arrival",
+  "Background": "Dirty",
   "owns": 119
 },
 {
@@ -41386,6 +41386,22 @@
   "owns": 119
 },
 {
+  "mint": "QnqCBQvU25LoFD6GmeV7FGRtVmt8AsMGYQVv5XutJmX",
+  "name": "Rundead #18496",
+  "image": "https://arweave.net/3Z8glQCDEKjUBkGzL5bEZitq1oIqfzY9VY3xO1sI-Uw",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Bones": "2342",
+  "Miles": "1",
+  "Deadband": "Red Deadband",
+  "Face": "White Little Bolt Lefty",
+  "Upper Body": "Breaker Lavender",
+  "Lower Body": "Tight White",
+  "Shoes": "Snacks",
+  "Body": "Bare Bones",
+  "Background": "Dirty",
+  "owns": 119
+},
+{
   "mint": "MAWkKz8BDbVsmmiZY2YTgmfmvyMXZThkEHANDtaQBo8",
   "name": "Rundead #545",
   "image": "https://arweave.net/JeKSJS1aH6arpfoeBXbZ2RbJQ0Oj0qoGETGyyBDOllo?ext=png",
@@ -41401,22 +41417,6 @@
   "Shoes": "Bad Hombre",
   "Body": "Dead Ahead",
   "Background": "Gravel",
-  "owns": 119
-},
-{
-  "mint": "QnqCBQvU25LoFD6GmeV7FGRtVmt8AsMGYQVv5XutJmX",
-  "name": "Rundead #18496",
-  "image": "https://arweave.net/3Z8glQCDEKjUBkGzL5bEZitq1oIqfzY9VY3xO1sI-Uw",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Bones": "2342",
-  "Miles": "1",
-  "Deadband": "Red Deadband",
-  "Face": "White Little Bolt Lefty",
-  "Upper Body": "Breaker Lavender",
-  "Lower Body": "Tight White",
-  "Shoes": "Snacks",
-  "Body": "Bare Bones",
-  "Background": "Dirty",
   "owns": 119
 },
 {
