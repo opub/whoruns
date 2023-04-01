@@ -40269,6 +40269,23 @@
   "owns": 129
 },
 {
+  "mint": "AfjBXb3uJxnkq4vjAHbXo8ocKeqq4qPWMWPrBXywCY5M",
+  "name": "Rundead #2256",
+  "image": "https://arweave.net/G1JUy9M7to67VHCKwLOmUsn-GOqjbqgmr8TPNu3M2zM",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "8",
+  "Deadband": "Punch Deadband",
+  "Face": "White NGMI",
+  "Left Hand": "Left Glove Sunrise",
+  "Upper Body": "Long Coral",
+  "Lower Body": "Twofer White",
+  "Shoes": "Erasers",
+  "Body": "Dead Last",
+  "Background": "Gravel",
+  "owns": 129
+},
+{
   "mint": "Ab91CB48LLCXiK5Q1nM8evdcnfqVtEZrWT2gadJzNvgP",
   "name": "Rundead #917",
   "image": "https://arweave.net/2Pz6LC622jpwTP3c0Zbvm-DRZfOo8CRNLhVzjgkUv9A",
@@ -40285,23 +40302,6 @@
   "Socks": "Candy",
   "Body": "Bite the Dust",
   "Background": "Sandy",
-  "owns": 129
-},
-{
-  "mint": "AfjBXb3uJxnkq4vjAHbXo8ocKeqq4qPWMWPrBXywCY5M",
-  "name": "Rundead #2256",
-  "image": "https://arweave.net/G1JUy9M7to67VHCKwLOmUsn-GOqjbqgmr8TPNu3M2zM",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "8",
-  "Deadband": "Punch Deadband",
-  "Face": "White NGMI",
-  "Left Hand": "Left Glove Sunrise",
-  "Upper Body": "Long Coral",
-  "Lower Body": "Twofer White",
-  "Shoes": "Erasers",
-  "Body": "Dead Last",
-  "Background": "Gravel",
   "owns": 129
 },
 {
@@ -64900,7 +64900,7 @@
   "mint": "7YgyW5Te2CG18iwxrXEqNETfy7UQvQVrVY8PDqefra4J",
   "name": "Rundead #19233",
   "image": "https://arweave.net/cKK32YQNsWKVw5eWx8gBYi8efP_Sb5AKzlE4tdI1G_s",
-  "owner": "CBZS94Eedex4BJVwDtvKaT7zw3ggEQLRsZ4G3VGU4BjE",
+  "owner": "EkjqEAvjzQB1zncbQZvNYh9mKuqNCocsYZSrBjkXA6Xx",
   "Bones": "506",
   "Deadband": "Galaxy Deadband",
   "Hair": "Crew Hayward",
