@@ -49780,24 +49780,6 @@
   "owns": 23
 },
 {
-  "mint": "GHwYkANi3JTCFKtAJSFNZmwcwq13RtgrBfawS8ZifZxQ",
-  "name": "Rundead #18010",
-  "image": "https://arweave.net/TSvTbW7AMafLgq9wAXdfpC0y65D6pcl6nROebJv7ugI",
-  "owner": "A92cVVFefsxjAvRBw3Dz9ZqjUGefhKKPjFTgByPdpe82",
-  "Miles": "1",
-  "Bones": "23",
-  "Deadband": "Orange Deadband",
-  "Face": "Rose Too Nice To Snack",
-  "Left Hand": "Left Band Invasion",
-  "Upper Body": "Hood Sky",
-  "Lower Body": "Twofer Galaxy",
-  "Shoes": "Curbed",
-  "Socks": "Soxy",
-  "Body": "Dead on Arrival",
-  "Background": "Desert Rose",
-  "owns": 1
-},
-{
   "mint": "5tpqq3hz5CxuXW38BDZvTRfRRp3131w6Kw1gNzmJS3ov",
   "name": "Rundead #15353",
   "image": "https://arweave.net/0F7obuhjGxfrdClVMzFbLMp1EmUnosxnySWKfU5PyEg",
@@ -64508,6 +64490,24 @@
   "Body": "T-Boned",
   "Background": "Dusk",
   "owns": 3
+},
+{
+  "mint": "GHwYkANi3JTCFKtAJSFNZmwcwq13RtgrBfawS8ZifZxQ",
+  "name": "Rundead #18010",
+  "image": "https://arweave.net/TSvTbW7AMafLgq9wAXdfpC0y65D6pcl6nROebJv7ugI",
+  "owner": "A92cVVFefsxjAvRBw3Dz9ZqjUGefhKKPjFTgByPdpe82",
+  "Miles": "1",
+  "Bones": "23",
+  "Deadband": "Orange Deadband",
+  "Face": "Rose Too Nice To Snack",
+  "Left Hand": "Left Band Invasion",
+  "Upper Body": "Hood Sky",
+  "Lower Body": "Twofer Galaxy",
+  "Shoes": "Curbed",
+  "Socks": "Soxy",
+  "Body": "Dead on Arrival",
+  "Background": "Desert Rose",
+  "owns": 1
 },
 {
   "mint": "7eD6JYkx7katKLSawEUr1Nt53UkhqS7wQvnNyxJdwjNw",
