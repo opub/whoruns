@@ -39763,24 +39763,6 @@
   "owns": 120
 },
 {
-  "mint": "3XrkkuLaWJa8sfS2Lz1k2ZaHXpgTtXxRCvxVG7KycjnL",
-  "name": "Rundead #17683",
-  "image": "https://arweave.net/0Er8CS8fInjhJi0rnMa0LOY4POgwsQxvMMIVoNx_OOQ",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "15",
-  "Deadband": "Sky Deadband",
-  "Hair": "Mess Mint",
-  "Face": "White Chex",
-  "Left Hand": "Left Band Desert",
-  "Upper Body": "Long Pink",
-  "Lower Body": "Twofer White",
-  "Shoes": "Limes",
-  "Body": "Easy Meat",
-  "Background": "Rusty",
-  "owns": 120
-},
-{
   "mint": "3ZSf1HiexWnkbgGeNGH6EQLuSC1gzPUAazax7pbqEgss",
   "name": "Rundead #10875",
   "image": "https://arweave.net/FZCz5-a0c8wqY6lk1c_tSgEqv70yt6iWkS_OlRMat9M",
@@ -39830,6 +39812,24 @@
   "Socks": "Godly",
   "Body": "Easy Meat",
   "Background": "Dirty",
+  "owns": 120
+},
+{
+  "mint": "3XrkkuLaWJa8sfS2Lz1k2ZaHXpgTtXxRCvxVG7KycjnL",
+  "name": "Rundead #17683",
+  "image": "https://arweave.net/0Er8CS8fInjhJi0rnMa0LOY4POgwsQxvMMIVoNx_OOQ",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "15",
+  "Deadband": "Sky Deadband",
+  "Hair": "Mess Mint",
+  "Face": "White Chex",
+  "Left Hand": "Left Band Desert",
+  "Upper Body": "Long Pink",
+  "Lower Body": "Twofer White",
+  "Shoes": "Limes",
+  "Body": "Easy Meat",
+  "Background": "Rusty",
   "owns": 120
 },
 {
