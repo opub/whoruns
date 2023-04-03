@@ -42322,6 +42322,22 @@
   "owns": 116
 },
 {
+  "mint": "QnqCBQvU25LoFD6GmeV7FGRtVmt8AsMGYQVv5XutJmX",
+  "name": "Rundead #18496",
+  "image": "https://arweave.net/3Z8glQCDEKjUBkGzL5bEZitq1oIqfzY9VY3xO1sI-Uw",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Bones": "2342",
+  "Miles": "1",
+  "Deadband": "Red Deadband",
+  "Face": "White Little Bolt Lefty",
+  "Upper Body": "Breaker Lavender",
+  "Lower Body": "Tight White",
+  "Shoes": "Snacks",
+  "Body": "Bare Bones",
+  "Background": "Dirty",
+  "owns": 116
+},
+{
   "mint": "MAWkKz8BDbVsmmiZY2YTgmfmvyMXZThkEHANDtaQBo8",
   "name": "Rundead #545",
   "image": "https://arweave.net/JeKSJS1aH6arpfoeBXbZ2RbJQ0Oj0qoGETGyyBDOllo?ext=png",
@@ -42337,22 +42353,6 @@
   "Shoes": "Bad Hombre",
   "Body": "Dead Ahead",
   "Background": "Gravel",
-  "owns": 116
-},
-{
-  "mint": "QnqCBQvU25LoFD6GmeV7FGRtVmt8AsMGYQVv5XutJmX",
-  "name": "Rundead #18496",
-  "image": "https://arweave.net/3Z8glQCDEKjUBkGzL5bEZitq1oIqfzY9VY3xO1sI-Uw",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Bones": "2342",
-  "Miles": "1",
-  "Deadband": "Red Deadband",
-  "Face": "White Little Bolt Lefty",
-  "Upper Body": "Breaker Lavender",
-  "Lower Body": "Tight White",
-  "Shoes": "Snacks",
-  "Body": "Bare Bones",
-  "Background": "Dirty",
   "owns": 116
 },
 {
@@ -50912,22 +50912,6 @@
   "owns": 3
 },
 {
-  "mint": "3dyfEf8jXao7qipURztnavFGoAx4Kx7uoQcW2bxPQ6xy",
-  "name": "Rundead #10043",
-  "image": "https://arweave.net/Esqc0QC9r3xKeRp6_AwQ9-gviRdbb_xvmLBWcdmLKOQ",
-  "owner": "9taQkHysREqoP9cTecnFZt6raDgPV5Fkf7KoaWpMT6CM",
-  "Miles": "1",
-  "Bones": "102",
-  "Deadband": "Black Deadband",
-  "Face": "White Dead in the Headlights",
-  "Upper Body": "Tank Punch",
-  "Lower Body": "Tight Black",
-  "Shoes": "Curbed",
-  "Body": "Fast Food",
-  "Background": "Rusty",
-  "owns": 5
-},
-{
   "mint": "4XAURnUNWemBtK1ubHg9yw3HfHiweuQj6M5Xakn7NXiq",
   "name": "Rundead #16896",
   "image": "https://arweave.net/nfMAxt03mlfqO6ws0t5aQYye8Q9lJckiif3wSu3KaUE",
@@ -50942,7 +50926,7 @@
   "Shoes": "Death Eaters",
   "Body": "Bite the Dust",
   "Background": "Rusty",
-  "owns": 5
+  "owns": 4
 },
 {
   "mint": "5mALeRZajck76peS8qxKNKscUUVdV13rcqJWgB4GtXN6",
@@ -50959,7 +50943,7 @@
   "Socks": "Super Yuck",
   "Body": "Meat Cute",
   "Background": "Rusty",
-  "owns": 5
+  "owns": 4
 },
 {
   "mint": "CCsUWnTfcPSzWpj1w2MaBe24RpFiPivwSSS9hgTjJxrc",
@@ -50977,7 +50961,7 @@
   "Socks": "Godly",
   "Body": "Bone Head",
   "Background": "Dusk",
-  "owns": 5
+  "owns": 4
 },
 {
   "mint": "5eYbxdopohd2fwu23eeFvLSUTx3yuPcH1hvhrGjYy3F7",
@@ -50996,7 +50980,7 @@
   "Socks": "Super Yuck",
   "Body": "Dead Last",
   "Background": "Rusty",
-  "owns": 5
+  "owns": 4
 },
 {
   "mint": "621mFgTCCWDzs8FjXEQiMbAGxykvLmq4c2nNatg2iuKg",
@@ -63294,6 +63278,22 @@
   "owns": 4
 },
 {
+  "mint": "3dyfEf8jXao7qipURztnavFGoAx4Kx7uoQcW2bxPQ6xy",
+  "name": "Rundead #10043",
+  "image": "https://arweave.net/Esqc0QC9r3xKeRp6_AwQ9-gviRdbb_xvmLBWcdmLKOQ",
+  "owner": "AzskrtRMuTuyBqLtyrSqxggRDUujKXYKPe8w7kVXGPry",
+  "Miles": "1",
+  "Bones": "102",
+  "Deadband": "Black Deadband",
+  "Face": "White Dead in the Headlights",
+  "Upper Body": "Tank Punch",
+  "Lower Body": "Tight Black",
+  "Shoes": "Curbed",
+  "Body": "Fast Food",
+  "Background": "Rusty",
+  "owns": 2
+},
+{
   "mint": "6byctVTio7DnZzzLe7ng1ZHwTMKcTMmkUzpvJS8Yaaay",
   "name": "Rundead #12930",
   "image": "https://arweave.net/YLa3N3-CQVSIC8erplK0ud8qrHnWF7BXQUmWaWvxMbU",
@@ -63379,7 +63379,7 @@
   "Shoes": "Cleaners",
   "Body": "Meat Cute",
   "Background": "Sea Foam",
-  "owns": 1
+  "owns": 2
 },
 {
   "mint": "5ZzN6LaLQoRNSrSUJej68ZUfDnpwVCKfsaXpQrsCNXi8",
