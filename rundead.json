@@ -908,8 +908,8 @@
   "name": "Rundead #10799",
   "image": "https://arweave.net/cBFEW3FEMT32aN1EWBtOOmHX7bA1oFGsPApVu1nSQMM",
   "owner": "4g2iXZaKFmSYwP1rzDumBRx6HHYNTYrPZzPwTw1T4Wgq",
+  "Bones": "274",
   "Miles": "1",
-  "Bones": "46",
   "Deadband": "Black Deadband",
   "Face": "Hollow",
   "Left Hand": "Left Hand Black",
@@ -919,189 +919,7 @@
   "Shoes": "Erasers",
   "Body": "Can't Unsee",
   "Background": "Dusk",
-  "owns": 15
-},
-{
-  "mint": "GahJohkYxdCq6hpQ4dmaBTUpUkYghPeCN7bspds4ZKaS",
-  "name": "Rundead #12579",
-  "image": "https://arweave.net/Hr4FbZYSz6Mdm4brDoDEAY8vGIz1XjiwOlXhIXd6qHI",
-  "owner": "4g2iXZaKFmSYwP1rzDumBRx6HHYNTYrPZzPwTw1T4Wgq",
-  "Miles": "1",
-  "Bones": "54",
-  "Special": "Chafe Life",
-  "Left Hand": "Left Hand Red",
-  "Right Hand": "Right Band Red",
-  "Hair": "Hawkish Black",
-  "Deadband": "Gold Deadband",
-  "Face": "Hollow",
-  "Lower Body": "Norts White",
-  "Shoes": "Slugs",
-  "Socks": "Sundays",
-  "Body": "Bone to Pick",
-  "Background": "Dust",
-  "owns": 15
-},
-{
-  "mint": "9gQahLmA7umixiLkMeUX3pQYs3xPPf3VUcDAZTC9Vgy9",
-  "name": "Rundead #12653",
-  "image": "https://arweave.net/e64NYHqjJF4aEx6dI8-KgajwakfN42sUJ3kdyxrnU0s",
-  "owner": "4g2iXZaKFmSYwP1rzDumBRx6HHYNTYrPZzPwTw1T4Wgq",
-  "Miles": "1",
-  "Bones": "12",
-  "Deadband": "Black Deadband",
-  "Face": "White Checkers",
-  "Right Hand": "Right Band Sonic",
-  "Upper Body": "Tank Sweaty",
-  "Lower Body": "Twofer Lavender",
-  "Shoes": "Clashes",
-  "Socks": "Nope",
-  "Body": "Dead Ahead",
-  "Background": "Dust",
-  "owns": 15
-},
-{
-  "mint": "7uRaXNXGFmHdXJqSmA1M3zSrAsvePLnVmYKbJbbGugJn",
-  "name": "Rundead #14807",
-  "image": "https://arweave.net/07SsX2z3Kej-6VGUuoDfLALhtquq4gdJnrl2HScSIps",
-  "owner": "4g2iXZaKFmSYwP1rzDumBRx6HHYNTYrPZzPwTw1T4Wgq",
-  "Miles": "1",
-  "Bones": "15",
-  "Deadband": "Mono Deadband",
-  "Face": "Mint So Pumped",
-  "Upper Body": "Hood Sonic",
-  "Lower Body": "Tight Sky",
-  "Shoes": "Erasers",
-  "Body": "Brain Dead",
-  "Background": "Cross Country",
-  "owns": 15
-},
-{
-  "mint": "Dxj9wygH3Y2VL4kcHBYWsYDPZLJeYffCjeEUXoKuCSPs",
-  "name": "Rundead #15056",
-  "image": "https://arweave.net/S4Jqzf0NTxKqGxN2kRtIr9kyUr7dWXkCJJ6jEmAVRuo",
-  "owner": "4g2iXZaKFmSYwP1rzDumBRx6HHYNTYrPZzPwTw1T4Wgq",
-  "Miles": "1",
-  "Bones": "13",
-  "Deadband": "Coral Deadband",
-  "Hair": "Crew Orange",
-  "Face": "White I Could Eat",
-  "Left Hand": "Left Glove Clash",
-  "Upper Body": "Tank Lavender",
-  "Lower Body": "Tight Green",
-  "Shoes": "Bad Hombre",
-  "Socks": "Sundays",
-  "Body": "Easy Meat",
-  "Background": "Sea Foam",
-  "owns": 15
-},
-{
-  "mint": "BQbxxi2NvY5So5j9LCNP6PptbiUsGztF9duM6y83hPX3",
-  "name": "Rundead #17811",
-  "image": "https://arweave.net/oWMQkF_Bquk1zd3psImGwYrSQFB-JUAq2O7sLy6wroc",
-  "owner": "4g2iXZaKFmSYwP1rzDumBRx6HHYNTYrPZzPwTw1T4Wgq",
-  "Miles": "1",
-  "Bones": "13",
-  "Deadband": "Trail Deadband",
-  "Hair": "Crew Red",
-  "Face": "Red Wen Dead",
-  "Upper Body": "Tank Desert",
-  "Lower Body": "Twofer White",
-  "Shoes": "Erasers",
-  "Socks": "Darned",
-  "Body": "Brain Dead",
-  "Background": "Rusty",
-  "owns": 15
-},
-{
-  "mint": "Q2Ng6qwxvvLZ8T77TKE281Sc71GFe7sF3jdkPAfxe9i",
-  "name": "Rundead #4013",
-  "image": "https://arweave.net/vS-kvR2_aNBsj9Ph_jUvg3pa0p3jK-uHNbePD51Dvtk",
-  "owner": "4g2iXZaKFmSYwP1rzDumBRx6HHYNTYrPZzPwTw1T4Wgq",
-  "Miles": "1",
-  "Bones": "36",
-  "Special": "Hermes",
-  "Deadband": "Trail Deadband",
-  "Hair": "Crew Green",
-  "Face": "White Glory Days",
-  "Left Hand": "Left Band Blue",
-  "Upper Body": "Spra Trail",
-  "Lower Body": "Tight Blessed",
-  "Shoes": "Filth",
-  "Body": "T-Boned",
-  "Background": "Dirty",
-  "owns": 15
-},
-{
-  "mint": "kFZUFi2aUXBo1TT7gNPgmp55AuZXNSgWxkAVnhGST9T",
-  "name": "Rundead #4064",
-  "image": "https://arweave.net/LUBneux1J4610eSuPCq2vK1FqsNht5KQwKbwVFqRxPA",
-  "owner": "4g2iXZaKFmSYwP1rzDumBRx6HHYNTYrPZzPwTw1T4Wgq",
-  "Miles": "1",
-  "Bones": "11",
-  "Deadband": "Orange Deadband",
-  "Hair": "Crew Blur",
-  "Face": "Mint Chad",
-  "Upper Body": "Breaker Galaxy",
-  "Lower Body": "Norts White",
-  "Shoes": "Snacks",
-  "Socks": "Godly",
-  "Body": "Dead Ahead",
-  "Background": "Sea Foam",
-  "owns": 15
-},
-{
-  "mint": "FVpd3gSe5xHo9r6f9pL4uYEtgGeVPDqP9NLFjwtGt3PQ",
-  "name": "Rundead #6259",
-  "image": "https://arweave.net/zkmTw2EvkomXdNLe7wx-dkNfaHa1CVJj4ZEa-TcxF3M",
-  "owner": "4g2iXZaKFmSYwP1rzDumBRx6HHYNTYrPZzPwTw1T4Wgq",
-  "Miles": "1",
-  "Bones": "27",
-  "Deadband": "Ice Deadband",
-  "Face": "Yollow Super Insanely Mad",
-  "Right Hand": "Right Glove Trail",
-  "Upper Body": "Spra Green",
-  "Lower Body": "Tight Punch",
-  "Shoes": "Hand Me Downers",
-  "Body": "Brain Dead",
-  "Background": "Dirty",
-  "owns": 15
-},
-{
-  "mint": "GN9hdSWoFdndnxjGgNBpCvV5nDumLkEc6AvPv5FhKsvF",
-  "name": "Rundead #6276",
-  "image": "https://arweave.net/Go8n1xhy4O4-KCL3WnY4XfD7HEX7XbhL0joL89cOYlo",
-  "owner": "4g2iXZaKFmSYwP1rzDumBRx6HHYNTYrPZzPwTw1T4Wgq",
-  "Miles": "1",
-  "Bones": "23",
-  "Deadband": "Invasion Deadband",
-  "Hair": "Mess Blur",
-  "Face": "Rose Ok",
-  "Upper Body": "Short White",
-  "Lower Body": "Tight Yuck",
-  "Shoes": "Monos",
-  "Socks": "Greenish",
-  "Body": "Bone to Pick",
-  "Background": "Dirty",
-  "owns": 15
-},
-{
-  "mint": "8XES61HJvW3Bs5FwnuAznAdrahjf1VCKG61Zu2TkZtDz",
-  "name": "Rundead #6720",
-  "image": "https://arweave.net/YJ8B82jgA9ZkUQRgou9Kp-lsOJnor06bx1pabg_lRg4",
-  "owner": "4g2iXZaKFmSYwP1rzDumBRx6HHYNTYrPZzPwTw1T4Wgq",
-  "Miles": "1",
-  "Bones": "24",
-  "Deadband": "Purple Deadband",
-  "Hair": "Side Stitch Blessed",
-  "Face": "Yollow nah",
-  "Left Hand": "Left Glove Blessed",
-  "Upper Body": "Short Orange",
-  "Lower Body": "Norts Orange",
-  "Shoes": "Trips",
-  "Socks": "Stems",
-  "Body": "Dead Last",
-  "Background": "Sandy",
-  "owns": 15
+  "owns": 5
 },
 {
   "mint": "6Gu9wnG2rmUvRocXg6XfYuuCMJAQZpHrFG88Tiv7TFsY",
@@ -1118,7 +936,7 @@
   "Shoes": "Curbed",
   "Body": "Meat Cute",
   "Background": "Dusk",
-  "owns": 15
+  "owns": 5
 },
 {
   "mint": "YJ5u4bSVxUEeqXuQXVw7jvrmRfbC8UrBdjiwBKTVQ4j",
@@ -1136,7 +954,7 @@
   "Shoes": "Limes",
   "Body": "Dead on Arrival",
   "Background": "Desert Rose",
-  "owns": 15
+  "owns": 5
 },
 {
   "mint": "xo1wAkavnRNazqcBYS6XrLGEzszEjSCPPK8xbHEUrZt",
@@ -1154,7 +972,7 @@
   "Socks": "Nope",
   "Body": "Dead on Arrival",
   "Background": "Dust",
-  "owns": 15
+  "owns": 5
 },
 {
   "mint": "HkdkSHEuoPRQVB6AG93e46P6QG5vtcUiFaePWRiaRzpM",
@@ -1172,7 +990,7 @@
   "Socks": "Stems",
   "Body": "Dead Ahead",
   "Background": "Sandy",
-  "owns": 15
+  "owns": 5
 },
 {
   "mint": "4TT9BPkeTPCeHfwKPjaEBRwjLQF1VEmtbjEdYL97kUqz",
@@ -24851,23 +24669,6 @@
   "owns": 12
 },
 {
-  "mint": "9Tq9duXQfG1eFKSQ5NpiNzBS9pScuaGBfRFMKR7bTWZJ",
-  "name": "Rundead #12486",
-  "image": "https://arweave.net/zv6-EHPJUfiTr885KLS0iTOlaXJwb7D549O9hkgEc9w",
-  "owner": "GEFZqqqHfLB5GWsKVBuoHiajzR6kPPgmdrLuJLcBB9bt",
-  "Miles": "1",
-  "Bones": "13",
-  "Deadband": "Black Deadband",
-  "Face": "Mint Not a PFP",
-  "Upper Body": "Hood Sunrise",
-  "Lower Body": "Norts White",
-  "Shoes": "Limes",
-  "Socks": "Soxy",
-  "Body": "Dead Ahead",
-  "Background": "Desert Rose",
-  "owns": 12
-},
-{
   "mint": "6XtW1mG4kdFBKpjsq9DCbzkLQaCFzifMEE9a9UdHZEzh",
   "name": "Rundead #17060",
   "image": "https://arweave.net/jaOM3gHtKGL7Cdevv6mlMkiATOEyWe5eA0xGf_wblSk",
@@ -24883,7 +24684,7 @@
   "Socks": "Darned",
   "Body": "T-Boned",
   "Background": "Sandy",
-  "owns": 12
+  "owns": 11
 },
 {
   "mint": "AbsFhr6ogwLb6fhVfuWeLeJV7khY6rq2aVacZk6utvZU",
@@ -24901,7 +24702,7 @@
   "Socks": "Soxy",
   "Body": "Dead Ahead",
   "Background": "Sea Foam",
-  "owns": 12
+  "owns": 11
 },
 {
   "mint": "AULfHzhBQqD7Tvp2Fz2bV3ra2U6iWeq41kjQ87Kr6vzJ",
@@ -24920,7 +24721,7 @@
   "Socks": "Greenish",
   "Body": "Easy Meat",
   "Background": "Rusty",
-  "owns": 12
+  "owns": 11
 },
 {
   "mint": "BZpgHhdjJbT25fESkVHp3QtJJHV5EAref5QhyXZqo3DC",
@@ -24938,7 +24739,7 @@
   "Socks": "Darned",
   "Body": "Bone to Pick",
   "Background": "Superbloom",
-  "owns": 12
+  "owns": 11
 },
 {
   "mint": "zw9qKmrPidJ85w5B91gtVTkQse7yYXor5EK9X8hx9gD",
@@ -24956,7 +24757,7 @@
   "Socks": "Nope",
   "Body": "Bite the Dust",
   "Background": "Gravel",
-  "owns": 12
+  "owns": 11
 },
 {
   "mint": "7sqLXcF6Z3toMFVCVrB5xQ8yCQuf3y7MrfPX6B4FCTXh",
@@ -24973,7 +24774,7 @@
   "Shoes": "Erasers",
   "Body": "Brain Dead",
   "Background": "Desert Rose",
-  "owns": 12
+  "owns": 11
 },
 {
   "mint": "CFa7gwmDA8v3f4uPAfGoo7prLWKsaWEL9Y45QStwyciS",
@@ -24991,7 +24792,7 @@
   "Socks": "Candy",
   "Body": "Fast Food",
   "Background": "Dusk",
-  "owns": 12
+  "owns": 11
 },
 {
   "mint": "Az25yBYbosrbA8cMoRqanneXJVDEYVVrZT6sdHtcjXCD",
@@ -25008,7 +24809,7 @@
   "Socks": "Ankle Biters",
   "Body": "Easy Meat",
   "Background": "Dust",
-  "owns": 12
+  "owns": 11
 },
 {
   "mint": "992ZbDqNiiE5LZyx2XD6PBUyTqWRCJ8zx85UJDREJd7H",
@@ -25026,7 +24827,7 @@
   "Socks": "Godly",
   "Body": "Brain Dead",
   "Background": "Dirty",
-  "owns": 12
+  "owns": 11
 },
 {
   "mint": "5yHtivFsNok9xQgiUQnNPR46RNjMfhzbtwLRGfveiarP",
@@ -25044,7 +24845,7 @@
   "Socks": "Candy",
   "Body": "T-Boned",
   "Background": "Rusty",
-  "owns": 12
+  "owns": 11
 },
 {
   "mint": "EyDfeALw6jWD1EG64YKvKzYykyjRDaLyTwi49ShLw71u",
@@ -25062,7 +24863,7 @@
   "Socks": "Candy",
   "Body": "A Little Snack",
   "Background": "Desert Rose",
-  "owns": 12
+  "owns": 11
 },
 {
   "mint": "3scbofRUWo1AXVJidjT3vdc9xUF2BCXwiv6xb3qU7svx",
@@ -42248,6 +42049,23 @@
   "owns": 122
 },
 {
+  "mint": "AvVoggB42gPT5Ay5tE9iwytZyXXsCxB7zwEBmRXuF1fu",
+  "name": "Rundead #13846",
+  "image": "https://arweave.net/yZ23sUEU8FxLz345OXqQZKBvh5eEnBgtiEj_znG06xU?ext=png",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "7",
+  "Deadband": "Lime Deadband",
+  "Face": "Rose Super Insanely Mad",
+  "Upper Body": "Tank Pink",
+  "Lower Body": "Tight Sunrise",
+  "Shoes": "Cleaners",
+  "Socks": "Candy",
+  "Body": "Easy Meat",
+  "Background": "Desert Rose",
+  "owns": 122
+},
+{
   "mint": "ATv4VGuCySRoDYVaketdWucQYU6nqHJM9j8w8Nnt6PhF",
   "name": "Rundead #708",
   "image": "https://arweave.net/FzddtDJ5bySzY_e2tW3hCmNg7XxYYTcSLPSg6R6Rso0",
@@ -42299,23 +42117,6 @@
   "Shoes": "Cleaners",
   "Body": "Bite the Dust",
   "Background": "Superbloom",
-  "owns": 122
-},
-{
-  "mint": "AvVoggB42gPT5Ay5tE9iwytZyXXsCxB7zwEBmRXuF1fu",
-  "name": "Rundead #13846",
-  "image": "https://arweave.net/yZ23sUEU8FxLz345OXqQZKBvh5eEnBgtiEj_znG06xU?ext=png",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "7",
-  "Deadband": "Lime Deadband",
-  "Face": "Rose Super Insanely Mad",
-  "Upper Body": "Tank Pink",
-  "Lower Body": "Tight Sunrise",
-  "Shoes": "Cleaners",
-  "Socks": "Candy",
-  "Body": "Easy Meat",
-  "Background": "Desert Rose",
   "owns": 122
 },
 {
@@ -42722,6 +42523,23 @@
   "owns": 122
 },
 {
+  "mint": "FghD3KTSjYcQ6uPKGkCMcJYLLzs8HjxkgAgb6PcjzzFf",
+  "name": "Rundead #5674",
+  "image": "https://arweave.net/O3eF9ss4I7Z9j9BdRnyMA8ajGVyB9i4VhupLxdnmgvQ",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "15",
+  "Deadband": "Galaxy Deadband",
+  "Face": "Yollow Little Bolt Lefty",
+  "Left Hand": "Left Glove Ice",
+  "Upper Body": "Long Blessed",
+  "Lower Body": "Twofer Blessed",
+  "Shoes": "Erasers",
+  "Body": "Bare Bones",
+  "Background": "Dusk",
+  "owns": 122
+},
+{
   "mint": "Fkz1kbYCsYXNfHeRq3gw2eUFXftQs4EAa5orq6yGjn8r",
   "name": "Rundead #1074",
   "image": "https://arweave.net/8uZ-EPOZ_RKd76n6GeI14Hk6tRyv7Cbp_EmFAR52l74",
@@ -42737,23 +42555,6 @@
   "Socks": "Nope",
   "Body": "Bite the Dust",
   "Background": "Dirty",
-  "owns": 122
-},
-{
-  "mint": "FghD3KTSjYcQ6uPKGkCMcJYLLzs8HjxkgAgb6PcjzzFf",
-  "name": "Rundead #5674",
-  "image": "https://arweave.net/O3eF9ss4I7Z9j9BdRnyMA8ajGVyB9i4VhupLxdnmgvQ",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "15",
-  "Deadband": "Galaxy Deadband",
-  "Face": "Yollow Little Bolt Lefty",
-  "Left Hand": "Left Glove Ice",
-  "Upper Body": "Long Blessed",
-  "Lower Body": "Twofer Blessed",
-  "Shoes": "Erasers",
-  "Body": "Bare Bones",
-  "Background": "Dusk",
   "owns": 122
 },
 {
@@ -62522,7 +62323,7 @@
   "Shoes": "Cleaners",
   "Body": "Bite the Dust",
   "Background": "Cross Country",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "2V9t28z5QGH3zqkuxH3BwSmocdmHv3xLe28nWhoxVNhc",
@@ -62541,7 +62342,45 @@
   "Socks": "Stems",
   "Body": "Bare Bones",
   "Background": "Cross Country",
-  "owns": 33
+  "owns": 47
+},
+{
+  "mint": "GahJohkYxdCq6hpQ4dmaBTUpUkYghPeCN7bspds4ZKaS",
+  "name": "Rundead #12579",
+  "image": "https://arweave.net/Hr4FbZYSz6Mdm4brDoDEAY8vGIz1XjiwOlXhIXd6qHI",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "54",
+  "Special": "Chafe Life",
+  "Left Hand": "Left Hand Red",
+  "Right Hand": "Right Band Red",
+  "Hair": "Hawkish Black",
+  "Deadband": "Gold Deadband",
+  "Face": "Hollow",
+  "Lower Body": "Norts White",
+  "Shoes": "Slugs",
+  "Socks": "Sundays",
+  "Body": "Bone to Pick",
+  "Background": "Dust",
+  "owns": 47
+},
+{
+  "mint": "9gQahLmA7umixiLkMeUX3pQYs3xPPf3VUcDAZTC9Vgy9",
+  "name": "Rundead #12653",
+  "image": "https://arweave.net/e64NYHqjJF4aEx6dI8-KgajwakfN42sUJ3kdyxrnU0s",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "12",
+  "Deadband": "Black Deadband",
+  "Face": "White Checkers",
+  "Right Hand": "Right Band Sonic",
+  "Upper Body": "Tank Sweaty",
+  "Lower Body": "Twofer Lavender",
+  "Shoes": "Clashes",
+  "Socks": "Nope",
+  "Body": "Dead Ahead",
+  "Background": "Dust",
+  "owns": 47
 },
 {
   "mint": "BAKPZhNmUJj2efdLDtYLYBRHZekN3AQtq4DaEnzb5oes",
@@ -62560,7 +62399,7 @@
   "Shoes": "Blood Stained",
   "Body": "Bite the Dust",
   "Background": "Slate",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "Epi54kf3E3h7mSRAnTb61KaKJv3Pz1RBDw4WwUeVzNNm",
@@ -62577,7 +62416,42 @@
   "Shoes": "Trips",
   "Body": "Bone Head",
   "Background": "Gravel",
-  "owns": 33
+  "owns": 47
+},
+{
+  "mint": "7uRaXNXGFmHdXJqSmA1M3zSrAsvePLnVmYKbJbbGugJn",
+  "name": "Rundead #14807",
+  "image": "https://arweave.net/07SsX2z3Kej-6VGUuoDfLALhtquq4gdJnrl2HScSIps",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "15",
+  "Deadband": "Mono Deadband",
+  "Face": "Mint So Pumped",
+  "Upper Body": "Hood Sonic",
+  "Lower Body": "Tight Sky",
+  "Shoes": "Erasers",
+  "Body": "Brain Dead",
+  "Background": "Cross Country",
+  "owns": 47
+},
+{
+  "mint": "Dxj9wygH3Y2VL4kcHBYWsYDPZLJeYffCjeEUXoKuCSPs",
+  "name": "Rundead #15056",
+  "image": "https://arweave.net/S4Jqzf0NTxKqGxN2kRtIr9kyUr7dWXkCJJ6jEmAVRuo",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "13",
+  "Deadband": "Coral Deadband",
+  "Hair": "Crew Orange",
+  "Face": "White I Could Eat",
+  "Left Hand": "Left Glove Clash",
+  "Upper Body": "Tank Lavender",
+  "Lower Body": "Tight Green",
+  "Shoes": "Bad Hombre",
+  "Socks": "Sundays",
+  "Body": "Easy Meat",
+  "Background": "Sea Foam",
+  "owns": 47
 },
 {
   "mint": "2TTe1Fng1uh78TFwVEud9WwbULDWX3owcczaKghyG2oh",
@@ -62595,7 +62469,7 @@
   "Socks": "Darned",
   "Body": "Bare Bones",
   "Background": "Dust",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "C3ra7yx6TJsdRQeL379HNNCzm2KcKUEreXnMu4vJhBJx",
@@ -62612,7 +62486,7 @@
   "Socks": "Godly",
   "Body": "T-Boned",
   "Background": "Dust",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "DXEdMtVb4Lus6eBYhkJGmFwxkr7JWHFJ2Biw2yfa6HWT",
@@ -62631,7 +62505,7 @@
   "Socks": "Darned",
   "Body": "Bone Head",
   "Background": "Sea Foam",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "AAeD9kLgG1gGVC7ce3dh16w4w1vSadcc86vbDm9WJeSn",
@@ -62649,7 +62523,25 @@
   "Socks": "Darned",
   "Body": "A Little Snack",
   "Background": "Gravel",
-  "owns": 33
+  "owns": 47
+},
+{
+  "mint": "BQbxxi2NvY5So5j9LCNP6PptbiUsGztF9duM6y83hPX3",
+  "name": "Rundead #17811",
+  "image": "https://arweave.net/oWMQkF_Bquk1zd3psImGwYrSQFB-JUAq2O7sLy6wroc",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "13",
+  "Deadband": "Trail Deadband",
+  "Hair": "Crew Red",
+  "Face": "Red Wen Dead",
+  "Upper Body": "Tank Desert",
+  "Lower Body": "Twofer White",
+  "Shoes": "Erasers",
+  "Socks": "Darned",
+  "Body": "Brain Dead",
+  "Background": "Rusty",
+  "owns": 47
 },
 {
   "mint": "GHwYkANi3JTCFKtAJSFNZmwcwq13RtgrBfawS8ZifZxQ",
@@ -62667,7 +62559,7 @@
   "Socks": "Soxy",
   "Body": "Dead on Arrival",
   "Background": "Desert Rose",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "4B4f7eL7LNHU4cHiS6s95isviAN7pfgpMmwayVMvmrSy",
@@ -62685,7 +62577,7 @@
   "Socks": "Soxy",
   "Body": "Fast Food",
   "Background": "Gravel",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "HoBmaoZ7QGyoVHeAo2N2a1uFgidcGgoUFJYdnJcdM3au",
@@ -62703,7 +62595,7 @@
   "Socks": "Darned",
   "Body": "Meat Cute",
   "Background": "Superbloom",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "B5se8TzRvE47eQtwEjFENG6a99QioweXNzvit1Tt7xx",
@@ -62720,7 +62612,26 @@
   "Shoes": "Cleaners",
   "Body": "Dead on Arrival",
   "Background": "Cross Country",
-  "owns": 33
+  "owns": 47
+},
+{
+  "mint": "Q2Ng6qwxvvLZ8T77TKE281Sc71GFe7sF3jdkPAfxe9i",
+  "name": "Rundead #4013",
+  "image": "https://arweave.net/vS-kvR2_aNBsj9Ph_jUvg3pa0p3jK-uHNbePD51Dvtk",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "36",
+  "Special": "Hermes",
+  "Deadband": "Trail Deadband",
+  "Hair": "Crew Green",
+  "Face": "White Glory Days",
+  "Left Hand": "Left Band Blue",
+  "Upper Body": "Spra Trail",
+  "Lower Body": "Tight Blessed",
+  "Shoes": "Filth",
+  "Body": "T-Boned",
+  "Background": "Dirty",
+  "owns": 47
 },
 {
   "mint": "H1EeAfQ5wmq2AhrnNfo76gqqaN57wg7tre4yUziJKAPD",
@@ -62738,7 +62649,7 @@
   "Socks": "Ankle Biters",
   "Body": "Dead Ahead",
   "Background": "Sea Foam",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "9MRLRvSfPaWT2RShBYB1bes4wuGEBCFJQtvqY86eqUam",
@@ -62754,7 +62665,25 @@
   "Shoes": "Blood Stained",
   "Body": "Dead Ahead",
   "Background": "Desert Rose",
-  "owns": 33
+  "owns": 47
+},
+{
+  "mint": "kFZUFi2aUXBo1TT7gNPgmp55AuZXNSgWxkAVnhGST9T",
+  "name": "Rundead #4064",
+  "image": "https://arweave.net/LUBneux1J4610eSuPCq2vK1FqsNht5KQwKbwVFqRxPA",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "11",
+  "Deadband": "Orange Deadband",
+  "Hair": "Crew Blur",
+  "Face": "Mint Chad",
+  "Upper Body": "Breaker Galaxy",
+  "Lower Body": "Norts White",
+  "Shoes": "Snacks",
+  "Socks": "Godly",
+  "Body": "Dead Ahead",
+  "Background": "Sea Foam",
+  "owns": 47
 },
 {
   "mint": "wVa3LtecoZVsM1PfHx8wuxLELdebKwC95CCdREoDSi3",
@@ -62773,7 +62702,7 @@
   "Socks": "Ankle Biters",
   "Body": "T-Boned",
   "Background": "Slate",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "FNgAJYMdaUphsWtErnYjX4v3rd596va4BRcnFyo4uVqa",
@@ -62791,7 +62720,7 @@
   "Shoes": "Cleaners",
   "Body": "Bite the Dust",
   "Background": "Cross Country",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "FpDHo6e7VFsiQQGRy8tT5i3crTrFFYiAU4tD2u1AL5Kf",
@@ -62809,7 +62738,7 @@
   "Socks": "Godly",
   "Body": "Dead Last",
   "Background": "Rusty",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "2Gn1b6rKUMuR2jBKbh6Het34ZWzXoGFQUA4rq2a5gd5P",
@@ -62828,7 +62757,7 @@
   "Shoes": "Thanks Grandma",
   "Body": "Bite the Dust",
   "Background": "Cross Country",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "FrKsSetURnpfYSG2oAep3Bi4kNJhEqfZwumiHuywUPNw",
@@ -62845,7 +62774,7 @@
   "Shoes": "Death Eaters",
   "Body": "A Little Snack",
   "Background": "Dirty",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "EwBweWJERmULh2yMzbTU2JDdYGNcLnKXUbtjnbyLkXwZ",
@@ -62863,7 +62792,7 @@
   "Shoes": "Marfas",
   "Body": "Easy Meat",
   "Background": "Sandy",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "82vncNZdKL3ALooFZTE65uwLZjHFuQW1CsahaWQ9ejZZ",
@@ -62881,7 +62810,42 @@
   "Socks": "Candy",
   "Body": "Meat Cute",
   "Background": "Slate",
-  "owns": 33
+  "owns": 47
+},
+{
+  "mint": "FVpd3gSe5xHo9r6f9pL4uYEtgGeVPDqP9NLFjwtGt3PQ",
+  "name": "Rundead #6259",
+  "image": "https://arweave.net/zkmTw2EvkomXdNLe7wx-dkNfaHa1CVJj4ZEa-TcxF3M",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "27",
+  "Deadband": "Ice Deadband",
+  "Face": "Yollow Super Insanely Mad",
+  "Right Hand": "Right Glove Trail",
+  "Upper Body": "Spra Green",
+  "Lower Body": "Tight Punch",
+  "Shoes": "Hand Me Downers",
+  "Body": "Brain Dead",
+  "Background": "Dirty",
+  "owns": 47
+},
+{
+  "mint": "GN9hdSWoFdndnxjGgNBpCvV5nDumLkEc6AvPv5FhKsvF",
+  "name": "Rundead #6276",
+  "image": "https://arweave.net/Go8n1xhy4O4-KCL3WnY4XfD7HEX7XbhL0joL89cOYlo",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "23",
+  "Deadband": "Invasion Deadband",
+  "Hair": "Mess Blur",
+  "Face": "Rose Ok",
+  "Upper Body": "Short White",
+  "Lower Body": "Tight Yuck",
+  "Shoes": "Monos",
+  "Socks": "Greenish",
+  "Body": "Bone to Pick",
+  "Background": "Dirty",
+  "owns": 47
 },
 {
   "mint": "HxvLTR16XQ4k47vqJKEtXMntLHbqW34hNbBF4xgtnH1B",
@@ -62897,7 +62861,7 @@
   "Shoes": "Mooners",
   "Body": "Meat Cute",
   "Background": "Desert Rose",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "4pRDbywVsGoKBNSAjxrtKSnRcqujLF6kM4yHN9whpEKd",
@@ -62914,7 +62878,7 @@
   "Socks": "Godly",
   "Body": "Dead on Arrival",
   "Background": "Sea Foam",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "4DPphshiphQyXExUKXdG6pJamHaCaT5n6gbec3qPXL4S",
@@ -62931,7 +62895,26 @@
   "Shoes": "Bad Hombre",
   "Body": "Easy Meat",
   "Background": "Dusk",
-  "owns": 33
+  "owns": 47
+},
+{
+  "mint": "8XES61HJvW3Bs5FwnuAznAdrahjf1VCKG61Zu2TkZtDz",
+  "name": "Rundead #6720",
+  "image": "https://arweave.net/YJ8B82jgA9ZkUQRgou9Kp-lsOJnor06bx1pabg_lRg4",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "24",
+  "Deadband": "Purple Deadband",
+  "Hair": "Side Stitch Blessed",
+  "Face": "Yollow nah",
+  "Left Hand": "Left Glove Blessed",
+  "Upper Body": "Short Orange",
+  "Lower Body": "Norts Orange",
+  "Shoes": "Trips",
+  "Socks": "Stems",
+  "Body": "Dead Last",
+  "Background": "Sandy",
+  "owns": 47
 },
 {
   "mint": "6gXxDutCqi4Aktvd1Rvvjr86TLgvnWuFkGWjVtFXagYP",
@@ -62949,7 +62932,7 @@
   "Shoes": "Clashes",
   "Body": "Dead Last",
   "Background": "Dusk",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "GRW9MysgB5e5feY3oXstrummatkjfxpXteqhjD5dbBXj",
@@ -62968,7 +62951,7 @@
   "Socks": "Stems",
   "Body": "Bite the Dust",
   "Background": "Rusty",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "FZbnTjiXK9PktUcm75mUQfbNcdFS2CzXt1i8wFwrUZeU",
@@ -62987,7 +62970,7 @@
   "Socks": "Stems",
   "Body": "Easy Meat",
   "Background": "Gravel",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "DhEFdDYCUNTEFNevNFjgvRfXqWUztaKfJ7uhdgSAzNeF",
@@ -63006,7 +62989,24 @@
   "Socks": "Godly",
   "Body": "Easy Meat",
   "Background": "Dirty",
-  "owns": 33
+  "owns": 47
+},
+{
+  "mint": "6Gu9wnG2rmUvRocXg6XfYuuCMJAQZpHrFG88Tiv7TFsY",
+  "name": "Rundead #7672",
+  "image": "https://arweave.net/ugs1hlz7SC5ep9DhfL07zKuzi5b8S-VkWZnkv_qbke4",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "16",
+  "Deadband": "Coral Deadband",
+  "Hair": "Hawkish Desert",
+  "Face": "Red I could Eat",
+  "Upper Body": "Long Desert",
+  "Lower Body": "Twofer White",
+  "Shoes": "Curbed",
+  "Body": "Meat Cute",
+  "Background": "Dusk",
+  "owns": 47
 },
 {
   "mint": "9AWm44rCpwfLM46d8JX31nAb6fDnX1741Wu7BKFJz6PV",
@@ -63023,7 +63023,43 @@
   "Shoes": "Cleaners",
   "Body": "Brain Dead",
   "Background": "Dusk",
-  "owns": 33
+  "owns": 47
+},
+{
+  "mint": "YJ5u4bSVxUEeqXuQXVw7jvrmRfbC8UrBdjiwBKTVQ4j",
+  "name": "Rundead #8358",
+  "image": "https://arweave.net/pI3aXqizb11wzYpNCvfiayOm52AJkHyCYo_nTWSZH-4",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "25",
+  "Deadband": "Mint Deadband",
+  "Face": "Mint Chex",
+  "Left Hand": "Left Band Purple",
+  "Right Hand": "Right Band Hayward",
+  "Upper Body": "Vest Sunrise",
+  "Lower Body": "Twofer White",
+  "Shoes": "Limes",
+  "Body": "Dead on Arrival",
+  "Background": "Desert Rose",
+  "owns": 47
+},
+{
+  "mint": "xo1wAkavnRNazqcBYS6XrLGEzszEjSCPPK8xbHEUrZt",
+  "name": "Rundead #8795",
+  "image": "https://arweave.net/gzgiT1z4gscMYgd5ZYkL1kdyq3AQzixf-8zlLmZiGvg",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "14",
+  "Deadband": "Punch Deadband",
+  "Hair": "Side Stitch Purple",
+  "Face": "White Glory Days",
+  "Upper Body": "Breaker Green",
+  "Lower Body": "Norts Black",
+  "Shoes": "Trips",
+  "Socks": "Nope",
+  "Body": "Dead on Arrival",
+  "Background": "Dust",
+  "owns": 47
 },
 {
   "mint": "HFU9Qi8BJyF1pes5tDmw8iqLw6S2rGxPC6AJFCaTPJJz",
@@ -63042,7 +63078,7 @@
   "Socks": "Stems",
   "Body": "Bare Bones",
   "Background": "Sandy",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "7Jyt6S2NXvdPcufEkdnxvJjX3288ypCAGhfac6W3gX8g",
@@ -63059,7 +63095,25 @@
   "Socks": "Candy",
   "Body": "Bare Bones",
   "Background": "Slate",
-  "owns": 33
+  "owns": 47
+},
+{
+  "mint": "HkdkSHEuoPRQVB6AG93e46P6QG5vtcUiFaePWRiaRzpM",
+  "name": "Rundead #970",
+  "image": "https://arweave.net/wJTJa_rEgDIOD7zF2QUZkFUn7zhQ9yOstLKYeOfnTNI",
+  "owner": "8kq1MjV5ogn6DnAn6EF2LQ7df42vRScfNSHXZcG5QdXf",
+  "Miles": "1",
+  "Bones": "15",
+  "Deadband": "Galaxy Deadband",
+  "Hair": "Crew Invasion",
+  "Face": "White Chex",
+  "Upper Body": "Short Blue",
+  "Lower Body": "Twofer White",
+  "Shoes": "Clashes",
+  "Socks": "Stems",
+  "Body": "Dead Ahead",
+  "Background": "Sandy",
+  "owns": 47
 },
 {
   "mint": "wrS7bAwogPNLxpWqnRZtQVBXGJg8WtWF2LKNwSheBun",
@@ -63079,7 +63133,7 @@
   "Socks": "Nope",
   "Body": "Bite the Dust",
   "Background": "Sea Foam",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "2VY2cejQN28ixYrgqBYHsJoUgWffkS77ufteZN7itm6a",
@@ -63095,7 +63149,7 @@
   "Shoes": "Trips",
   "Body": "Brain Dead",
   "Background": "Sea Foam",
-  "owns": 33
+  "owns": 47
 },
 {
   "mint": "2gUR5g9qXvzQk5fTWCCkZmnB9cQdSg55mFddA7CDkMMs",
@@ -63114,7 +63168,27 @@
   "Socks": "Greenish",
   "Body": "Dead Last",
   "Background": "Slate",
-  "owns": 2
+  "owns": 3
+},
+{
+  "mint": "C42vRdzAbwazMEcp2Gi6vAEH5AFTbCqG21vPFXqUNVE2",
+  "name": "Rundead #14893",
+  "image": "https://arweave.net/Ro9k8JGqoaVSMr2KPSxM7STSqW0Xf7kVgwnGWnAGuSI",
+  "owner": "EkjqEAvjzQB1zncbQZvNYh9mKuqNCocsYZSrBjkXA6Xx",
+  "Miles": "1",
+  "Bones": "613",
+  "Deadband": "Blue Deadband",
+  "Hair": "Hawkish Pink",
+  "Face": "White Ok",
+  "Left Hand": "Left Band Green",
+  "Right Hand": "Right Glove Sunrise",
+  "Upper Body": "Breaker Sonic",
+  "Lower Body": "Twofer Blur",
+  "Shoes": "Erasers",
+  "Socks": "Ankle Biters",
+  "Body": "T-Boned",
+  "Background": "Dust",
+  "owns": 3
 },
 {
   "mint": "7YgyW5Te2CG18iwxrXEqNETfy7UQvQVrVY8PDqefra4J",
@@ -63130,7 +63204,7 @@
   "Socks": "Nope",
   "Body": "Easy Meat",
   "Background": "Rusty",
-  "owns": 2
+  "owns": 3
 },
 {
   "mint": "2oGPXBu93dEfVcmnh39yGixWQaM7Qa2MRg1zsXv5Hmo5",
@@ -65415,26 +65489,6 @@
   "Socks": "Darned",
   "Body": "Meat Cute",
   "Background": "Superbloom",
-  "owns": 1
-},
-{
-  "mint": "C42vRdzAbwazMEcp2Gi6vAEH5AFTbCqG21vPFXqUNVE2",
-  "name": "Rundead #14893",
-  "image": "https://arweave.net/Ro9k8JGqoaVSMr2KPSxM7STSqW0Xf7kVgwnGWnAGuSI",
-  "owner": "EZdoQ6PE2t7QycZeewNCmPPZfF1ediQfsjhUqJpaVTGA",
-  "Miles": "1",
-  "Bones": "613",
-  "Deadband": "Blue Deadband",
-  "Hair": "Hawkish Pink",
-  "Face": "White Ok",
-  "Left Hand": "Left Band Green",
-  "Right Hand": "Right Glove Sunrise",
-  "Upper Body": "Breaker Sonic",
-  "Lower Body": "Twofer Blur",
-  "Shoes": "Erasers",
-  "Socks": "Ankle Biters",
-  "Body": "T-Boned",
-  "Background": "Dust",
   "owns": 1
 },
 {
