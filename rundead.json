@@ -904,24 +904,6 @@
   "owns": 23
 },
 {
-  "mint": "CohUMKnTBfqNgZxPfm2KB49QGHDj4xuFi9CqudWNHi1A",
-  "name": "Rundead #10799",
-  "image": "https://arweave.net/cBFEW3FEMT32aN1EWBtOOmHX7bA1oFGsPApVu1nSQMM",
-  "owner": "4g2iXZaKFmSYwP1rzDumBRx6HHYNTYrPZzPwTw1T4Wgq",
-  "Bones": "344",
-  "Miles": "1",
-  "Deadband": "Black Deadband",
-  "Face": "Hollow",
-  "Left Hand": "Left Hand Black",
-  "Right Hand": "Right Hand Black",
-  "Upper Body": "Breaker Black",
-  "Lower Body": "Tight Black",
-  "Shoes": "Erasers",
-  "Body": "Can't Unsee",
-  "Background": "Dusk",
-  "owns": 1
-},
-{
   "mint": "4TT9BPkeTPCeHfwKPjaEBRwjLQF1VEmtbjEdYL97kUqz",
   "name": "Rundead #10793",
   "image": "https://arweave.net/3rE0EfU8J3iSR4mVC5e-dw_M30iv080VvCkUGiEtbk8",
@@ -63363,6 +63345,24 @@
   "Body": "Easy Meat",
   "Background": "Rusty",
   "owns": 3
+},
+{
+  "mint": "CohUMKnTBfqNgZxPfm2KB49QGHDj4xuFi9CqudWNHi1A",
+  "name": "Rundead #10799",
+  "image": "https://arweave.net/cBFEW3FEMT32aN1EWBtOOmHX7bA1oFGsPApVu1nSQMM",
+  "owner": "4g2iXZaKFmSYwP1rzDumBRx6HHYNTYrPZzPwTw1T4Wgq",
+  "Bones": "344",
+  "Miles": "1",
+  "Deadband": "Black Deadband",
+  "Face": "Hollow",
+  "Left Hand": "Left Hand Black",
+  "Right Hand": "Right Hand Black",
+  "Upper Body": "Breaker Black",
+  "Lower Body": "Tight Black",
+  "Shoes": "Erasers",
+  "Body": "Can't Unsee",
+  "Background": "Dusk",
+  "owns": 1
 },
 {
   "mint": "2oGPXBu93dEfVcmnh39yGixWQaM7Qa2MRg1zsXv5Hmo5",
