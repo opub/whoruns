@@ -42152,25 +42152,6 @@
   "owns": 122
 },
 {
-  "mint": "CAVgZmTY5Reh2GD96zrDHXwmTMKC5xcRJJbij6U8B4m9",
-  "name": "Rundead #7161",
-  "image": "https://arweave.net/Z1qFtRH6ZGtEb8_2wvZ973eh2tEIqQ4-KZj4FBnlAqM",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "18",
-  "Deadband": "Hayward Deadband",
-  "Hair": "Crew Invasion",
-  "Face": "Red Wen Dead",
-  "Right Hand": "Right Glove Ice",
-  "Upper Body": "Breaker Blue",
-  "Lower Body": "Norts White",
-  "Shoes": "Hand Me Downers",
-  "Socks": "Ankle Biters",
-  "Body": "A Little Snack",
-  "Background": "Slate",
-  "owns": 122
-},
-{
   "mint": "C3QrK3HXFtsYqNdcYb1cgehpx6UYwRvBjf8rV5TUYqsN",
   "name": "Rundead #7493",
   "image": "https://arweave.net/xOTVOHU8D6o6CA-dP9gOmMhC3l_GOiNeE55Qv3FrLAM",
@@ -42202,6 +42183,25 @@
   "Shoes": "Curbed",
   "Body": "Easy Meat",
   "Background": "Sandy",
+  "owns": 122
+},
+{
+  "mint": "CAVgZmTY5Reh2GD96zrDHXwmTMKC5xcRJJbij6U8B4m9",
+  "name": "Rundead #7161",
+  "image": "https://arweave.net/Z1qFtRH6ZGtEb8_2wvZ973eh2tEIqQ4-KZj4FBnlAqM",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "18",
+  "Deadband": "Hayward Deadband",
+  "Hair": "Crew Invasion",
+  "Face": "Red Wen Dead",
+  "Right Hand": "Right Glove Ice",
+  "Upper Body": "Breaker Blue",
+  "Lower Body": "Norts White",
+  "Shoes": "Hand Me Downers",
+  "Socks": "Ankle Biters",
+  "Body": "A Little Snack",
+  "Background": "Slate",
   "owns": 122
 },
 {
