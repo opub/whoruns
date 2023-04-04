@@ -40289,21 +40289,6 @@
   "owns": 121
 },
 {
-  "mint": "6FoMWRiq56FMNgfBGVRPfbvyJkBWexHYn3Pgc86DFvdo",
-  "name": "Rundead #11532",
-  "image": "https://arweave.net/p484h2toTODqueWfreLS1RKAnJq70FmRdmMONzOn7LY",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Bones": "561",
-  "Deadband": "Blur Deadband",
-  "Face": "White Down Bad",
-  "Upper Body": "Tank Sky",
-  "Lower Body": "Norts White",
-  "Shoes": "Cleaners",
-  "Body": "Dead Last",
-  "Background": "Gravel",
-  "owns": 121
-},
-{
   "mint": "6qGru18ro6J79ccQySUME11vBjFfUVbk9Ef64R3Dq7Nb",
   "name": "Rundead #12984",
   "image": "https://arweave.net/bqgiI_bFg7lz4dG9O7WcRxO0uVG3y3MbpZ8-5RRwHwc",
@@ -63326,6 +63311,21 @@
   "Body": "Bone Head",
   "Background": "Sandy",
   "owns": 2
+},
+{
+  "mint": "6FoMWRiq56FMNgfBGVRPfbvyJkBWexHYn3Pgc86DFvdo",
+  "name": "Rundead #11532",
+  "image": "https://arweave.net/p484h2toTODqueWfreLS1RKAnJq70FmRdmMONzOn7LY",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Bones": "561",
+  "Deadband": "Blur Deadband",
+  "Face": "White Down Bad",
+  "Upper Body": "Tank Sky",
+  "Lower Body": "Norts White",
+  "Shoes": "Cleaners",
+  "Body": "Dead Last",
+  "Background": "Gravel",
+  "owns": 121
 },
 {
   "mint": "2xoBegBFXgHXCoyqKK9BAbJxLKa7Rj2ncBNvapKMisFC",
