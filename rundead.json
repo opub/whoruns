@@ -40410,22 +40410,6 @@
   "owns": 115
 },
 {
-  "mint": "4JhKgm3YQRRzTsh2Xhc5RSLvQ8U2dCSKhdTu2KLpdqAF",
-  "name": "Rundead #4579",
-  "image": "https://arweave.net/RbmLgVgTB-hBsfcEJUr8oD-u2jdk2pet3tKzGchBoWE",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "13",
-  "Deadband": "Lavender Deadband",
-  "Face": "White Boomer",
-  "Left Hand": "Left Band Punch",
-  "Upper Body": "Uni Yuck",
-  "Shoes": "Cleaners",
-  "Body": "Bite the Dust",
-  "Background": "Dust",
-  "owns": 115
-},
-{
   "mint": "4ja1nMjztWGdqEKJKJqjEuyUkUShGCTkYjRF6kxRWrcr",
   "name": "Rundead #9948",
   "image": "https://arweave.net/9JzjKW4LaGbaNRbdLGkUfjbJ81iWeeJ8xmrjbR3VZ1Y?ext=png",
@@ -40439,6 +40423,22 @@
   "Shoes": "Bad Hombre",
   "Body": "Easy Meat",
   "Background": "Dirty",
+  "owns": 115
+},
+{
+  "mint": "4JhKgm3YQRRzTsh2Xhc5RSLvQ8U2dCSKhdTu2KLpdqAF",
+  "name": "Rundead #4579",
+  "image": "https://arweave.net/RbmLgVgTB-hBsfcEJUr8oD-u2jdk2pet3tKzGchBoWE",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "13",
+  "Deadband": "Lavender Deadband",
+  "Face": "White Boomer",
+  "Left Hand": "Left Band Punch",
+  "Upper Body": "Uni Yuck",
+  "Shoes": "Cleaners",
+  "Body": "Bite the Dust",
+  "Background": "Dust",
   "owns": 115
 },
 {
