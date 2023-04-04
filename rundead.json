@@ -63116,7 +63116,7 @@
   "Shoes": "Erasers",
   "Body": "Bare Bones",
   "Background": "Cross Country",
-  "owns": 6
+  "owns": 8
 },
 {
   "mint": "7h4AQjQMY5BsU8E32s7ktpJ5nazbnCSudk94y91t2Ncm",
@@ -63132,7 +63132,7 @@
   "Shoes": "Curbed",
   "Body": "Bone to Pick",
   "Background": "Desert Rose",
-  "owns": 6
+  "owns": 8
 },
 {
   "mint": "2H8BHiLNXcFqGa3QJo98DiArjYoz2bcZQEU7pX6LhseN",
@@ -63150,7 +63150,25 @@
   "Socks": "Nope",
   "Body": "Bite the Dust",
   "Background": "Dirty",
-  "owns": 6
+  "owns": 8
+},
+{
+  "mint": "64iAyZLdiwMdnnGVSf9YSjqLFrVqxwpvgp3Vn7WBm4Jn",
+  "name": "Rundead #6919",
+  "image": "https://arweave.net/P1igveNvA8e-0PrhWCl5SfqndJAK0iaivD6C6bSXwYk",
+  "owner": "9dm41a6y1rtxYHzPGWHasbvVL6JHKuQjzn45nHhTuofA",
+  "Miles": "1",
+  "Bones": "9",
+  "Deadband": "Punch Deadband",
+  "Hair": "Crew Lavender",
+  "Face": "Mint Ok",
+  "Upper Body": "Tank Lavender",
+  "Lower Body": "Tight Black",
+  "Shoes": "Erasers",
+  "Socks": "Greenish",
+  "Body": "T-Boned",
+  "Background": "Desert Rose",
+  "owns": 8
 },
 {
   "mint": "8HNFM5KQ6irn1ukV4pg7bhHUoFkYuCjR3KRgshxRZGCn",
@@ -63165,7 +63183,24 @@
   "Shoes": "Trips",
   "Body": "Meat Cute",
   "Background": "Sea Foam",
-  "owns": 6
+  "owns": 8
+},
+{
+  "mint": "CJ3h8dEkngfpCtKw7BXSm8jZJ8iuY78PV5r5eu7nJesg",
+  "name": "Rundead #16046",
+  "image": "https://arweave.net/LN1wLvMFF_cRnpXO4-_6lpqj0MzqBpSa3YFmTCQPYCA",
+  "owner": "9dm41a6y1rtxYHzPGWHasbvVL6JHKuQjzn45nHhTuofA",
+  "Miles": "1",
+  "Bones": "8",
+  "Deadband": "Lime Deadband",
+  "Hair": "Mess Black",
+  "Face": "Rose Super Insanely Mad",
+  "Upper Body": "Tank Invasion",
+  "Lower Body": "Tight Desert",
+  "Shoes": "Cleaners",
+  "Body": "Dead Ahead",
+  "Background": "Dust",
+  "owns": 8
 },
 {
   "mint": "E4q96KYmRVoAqKXZyhfmrJJn7SZkhMCiHrs4fsLtL9un",
@@ -63182,7 +63217,7 @@
   "Shoes": "Blood Stained",
   "Body": "Easy Meat",
   "Background": "Rusty",
-  "owns": 6
+  "owns": 8
 },
 {
   "mint": "BRBNrYbvYb48Wmsfk8LpH7aLtU9swHohBgwUq8Q3bHqR",
@@ -63200,42 +63235,7 @@
   "Socks": "Candy",
   "Body": "Bare Bones",
   "Background": "Sea Foam",
-  "owns": 6
-},
-{
-  "mint": "CJ3h8dEkngfpCtKw7BXSm8jZJ8iuY78PV5r5eu7nJesg",
-  "name": "Rundead #16046",
-  "image": "https://arweave.net/LN1wLvMFF_cRnpXO4-_6lpqj0MzqBpSa3YFmTCQPYCA",
-  "owner": "99qfSzRuJhEFm3NJCXV6zijvRhVzrjwcogWT14o5A2yV",
-  "Miles": "1",
-  "Bones": "8",
-  "Deadband": "Lime Deadband",
-  "Hair": "Mess Black",
-  "Face": "Rose Super Insanely Mad",
-  "Upper Body": "Tank Invasion",
-  "Lower Body": "Tight Desert",
-  "Shoes": "Cleaners",
-  "Body": "Dead Ahead",
-  "Background": "Dust",
-  "owns": 2
-},
-{
-  "mint": "64iAyZLdiwMdnnGVSf9YSjqLFrVqxwpvgp3Vn7WBm4Jn",
-  "name": "Rundead #6919",
-  "image": "https://arweave.net/P1igveNvA8e-0PrhWCl5SfqndJAK0iaivD6C6bSXwYk",
-  "owner": "99qfSzRuJhEFm3NJCXV6zijvRhVzrjwcogWT14o5A2yV",
-  "Miles": "1",
-  "Bones": "9",
-  "Deadband": "Punch Deadband",
-  "Hair": "Crew Lavender",
-  "Face": "Mint Ok",
-  "Upper Body": "Tank Lavender",
-  "Lower Body": "Tight Black",
-  "Shoes": "Erasers",
-  "Socks": "Greenish",
-  "Body": "T-Boned",
-  "Background": "Desert Rose",
-  "owns": 2
+  "owns": 8
 },
 {
   "mint": "AoGcQTK73kRrwAKvFwTtjc8eYMhD7WcA93SH265ZqrAs",
