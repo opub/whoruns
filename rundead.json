@@ -40442,25 +40442,6 @@
   "owns": 115
 },
 {
-  "mint": "4SGRqjxnndeePzvknR4inob34DvMqcG48eCdiHbSXbSe",
-  "name": "Rundead #16481",
-  "image": "https://arweave.net/yTTxp0mvNZ35mvdLgIeVS6pNcy39wAVph86qjDSjwPo",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "26",
-  "Deadband": "Invasion Deadband",
-  "Hair": "Crew Desert",
-  "Face": "Red Super Insanely Mad",
-  "Left Hand": "Left Band Galaxy",
-  "Upper Body": "Vest Orange",
-  "Lower Body": "Norts Sky",
-  "Shoes": "Trips",
-  "Socks": "Candy",
-  "Body": "Bone to Pick",
-  "Background": "Rusty",
-  "owns": 115
-},
-{
   "mint": "4PMbmTb5TwMBkLmUTSjX6T4svx9sNwMU7J227AjLrEGh",
   "name": "Rundead #19636",
   "image": "https://arweave.net/eYBZAGriy09H_M8Nj0f5KC-l221bfnfDe93DQmTUyfg",
@@ -40494,6 +40475,25 @@
   "Shoes": "Erasers",
   "Body": "Dead on Arrival",
   "Background": "Sea Foam",
+  "owns": 115
+},
+{
+  "mint": "4SGRqjxnndeePzvknR4inob34DvMqcG48eCdiHbSXbSe",
+  "name": "Rundead #16481",
+  "image": "https://arweave.net/yTTxp0mvNZ35mvdLgIeVS6pNcy39wAVph86qjDSjwPo",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "26",
+  "Deadband": "Invasion Deadband",
+  "Hair": "Crew Desert",
+  "Face": "Red Super Insanely Mad",
+  "Left Hand": "Left Band Galaxy",
+  "Upper Body": "Vest Orange",
+  "Lower Body": "Norts Sky",
+  "Shoes": "Trips",
+  "Socks": "Candy",
+  "Body": "Bone to Pick",
+  "Background": "Rusty",
   "owns": 115
 },
 {
@@ -41461,23 +41461,6 @@
   "owns": 115
 },
 {
-  "mint": "FA1bHNPseWqztnDpKVA6fEHD5gJcLhhsN7nANCrZujLh",
-  "name": "Rundead #2448",
-  "image": "https://arweave.net/9QEZ7NKEmos3mLxKrc85XBWXeuAVxTWQ0fQJsCkS218",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "12",
-  "Deadband": "White Deadband",
-  "Face": "Red Yummy",
-  "Right Hand": "Right glove Black",
-  "Upper Body": "Tank Orange",
-  "Lower Body": "Twofer Lime",
-  "Shoes": "Bad Hombre",
-  "Body": "Bone to Pick",
-  "Background": "Dusk",
-  "owns": 115
-},
-{
   "mint": "FDwoniKVesQk2Qjvo15h1JySWNAgXsoDQoPKWow8h2Xs",
   "name": "Rundead #10470",
   "image": "https://arweave.net/QtkeIFtV3yi-xGQ4v4bCA7mhAFAUkJZW1v3q-jW8_10",
@@ -41494,6 +41477,23 @@
   "Socks": "Nope",
   "Body": "Bone Head",
   "Background": "Rusty",
+  "owns": 115
+},
+{
+  "mint": "FA1bHNPseWqztnDpKVA6fEHD5gJcLhhsN7nANCrZujLh",
+  "name": "Rundead #2448",
+  "image": "https://arweave.net/9QEZ7NKEmos3mLxKrc85XBWXeuAVxTWQ0fQJsCkS218",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "12",
+  "Deadband": "White Deadband",
+  "Face": "Red Yummy",
+  "Right Hand": "Right glove Black",
+  "Upper Body": "Tank Orange",
+  "Lower Body": "Twofer Lime",
+  "Shoes": "Bad Hombre",
+  "Body": "Bone to Pick",
+  "Background": "Dusk",
   "owns": 115
 },
 {
@@ -41923,23 +41923,6 @@
   "owns": 115
 },
 {
-  "mint": "HXkcP5YdUhSEAwRdSVHdEaed7qveW9kxNSsPbfLVg2cH",
-  "name": "Rundead #17750",
-  "image": "https://arweave.net/4VqFGehhjRQHNel3D6YbMEnxKPUggM9eUv3Ciw1CAdc",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "14",
-  "Deadband": "Sweaty Deadband",
-  "Hair": "Hawkish Clash",
-  "Face": "Rose Chad",
-  "Upper Body": "Breaker Coral",
-  "Lower Body": "Tight Black",
-  "Shoes": "Blood Stained",
-  "Body": "Bite the Dust",
-  "Background": "Cross Country",
-  "owns": 115
-},
-{
   "mint": "HzenGb6HJ2kjNS6s7UjN6z2CyEwU6SKuaByZGRKrARF9",
   "name": "Rundead #11579",
   "image": "https://arweave.net/iemQ83edetxiSYyQuxVfc_0hBb1PZySUVyiybngdBBM",
@@ -41955,6 +41938,23 @@
   "Shoes": "Filth",
   "Body": "Bare Bones",
   "Background": "Dust",
+  "owns": 115
+},
+{
+  "mint": "HXkcP5YdUhSEAwRdSVHdEaed7qveW9kxNSsPbfLVg2cH",
+  "name": "Rundead #17750",
+  "image": "https://arweave.net/4VqFGehhjRQHNel3D6YbMEnxKPUggM9eUv3Ciw1CAdc",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "14",
+  "Deadband": "Sweaty Deadband",
+  "Hair": "Hawkish Clash",
+  "Face": "Rose Chad",
+  "Upper Body": "Breaker Coral",
+  "Lower Body": "Tight Black",
+  "Shoes": "Blood Stained",
+  "Body": "Bite the Dust",
+  "Background": "Cross Country",
   "owns": 115
 },
 {
