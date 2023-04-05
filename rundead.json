@@ -40331,22 +40331,6 @@
   "owns": 115
 },
 {
-  "mint": "C3QrK3HXFtsYqNdcYb1cgehpx6UYwRvBjf8rV5TUYqsN",
-  "name": "Rundead #7493",
-  "image": "https://arweave.net/xOTVOHU8D6o6CA-dP9gOmMhC3l_GOiNeE55Qv3FrLAM",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "10",
-  "Deadband": "Purple Deadband",
-  "Face": "Mint Glow Up",
-  "Upper Body": "Tank Orange",
-  "Lower Body": "Twofer Desert",
-  "Shoes": "Trips",
-  "Body": "Bare Bones",
-  "Background": "Superbloom",
-  "owns": 115
-},
-{
   "mint": "CAVgZmTY5Reh2GD96zrDHXwmTMKC5xcRJJbij6U8B4m9",
   "name": "Rundead #7161",
   "image": "https://arweave.net/Z1qFtRH6ZGtEb8_2wvZ973eh2tEIqQ4-KZj4FBnlAqM",
@@ -40363,6 +40347,22 @@
   "Socks": "Ankle Biters",
   "Body": "A Little Snack",
   "Background": "Slate",
+  "owns": 115
+},
+{
+  "mint": "C3QrK3HXFtsYqNdcYb1cgehpx6UYwRvBjf8rV5TUYqsN",
+  "name": "Rundead #7493",
+  "image": "https://arweave.net/xOTVOHU8D6o6CA-dP9gOmMhC3l_GOiNeE55Qv3FrLAM",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "10",
+  "Deadband": "Purple Deadband",
+  "Face": "Mint Glow Up",
+  "Upper Body": "Tank Orange",
+  "Lower Body": "Twofer Desert",
+  "Shoes": "Trips",
+  "Body": "Bare Bones",
+  "Background": "Superbloom",
   "owns": 115
 },
 {
