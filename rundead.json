@@ -40584,23 +40584,6 @@
   "owns": 115
 },
 {
-  "mint": "5foiD7cAkzxHYWQYjoR27DBUeWGfWqNXJPaQQVPqdGnw",
-  "name": "Rundead #17541",
-  "image": "https://arweave.net/M7JdHiX0ejdngZsVQfVfBNBJZZqEpoZlsqMqb_wIiZI",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "8",
-  "Deadband": "Red Deadband",
-  "Face": "Rose Just Eat Me Already",
-  "Upper Body": "Tank Clash",
-  "Lower Body": "Tight Lavender",
-  "Shoes": "Just the Tips",
-  "Socks": "Darned",
-  "Body": "Bite the Dust",
-  "Background": "Sea Foam",
-  "owns": 115
-},
-{
   "mint": "5jPdPt61pGLBXswqHgq2UAzDioQ8b9HJCSxLzxajMj22",
   "name": "Rundead #17533",
   "image": "https://arweave.net/yriZRdqBrx7M3-aQnpQCFPvl0QT9H7QyFGSAFztit1w",
@@ -40615,6 +40598,23 @@
   "Socks": "Super Yuck",
   "Body": "Dead Last",
   "Background": "Cross Country",
+  "owns": 115
+},
+{
+  "mint": "5foiD7cAkzxHYWQYjoR27DBUeWGfWqNXJPaQQVPqdGnw",
+  "name": "Rundead #17541",
+  "image": "https://arweave.net/M7JdHiX0ejdngZsVQfVfBNBJZZqEpoZlsqMqb_wIiZI",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "8",
+  "Deadband": "Red Deadband",
+  "Face": "Rose Just Eat Me Already",
+  "Upper Body": "Tank Clash",
+  "Lower Body": "Tight Lavender",
+  "Shoes": "Just the Tips",
+  "Socks": "Darned",
+  "Body": "Bite the Dust",
+  "Background": "Sea Foam",
   "owns": 115
 },
 {
