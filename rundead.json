@@ -37721,26 +37721,6 @@
   "owns": 106
 },
 {
-  "mint": "5Amqdqd8RDQjAb7k1oadWWsPKcbjenVHNvmAsDAyN9du",
-  "name": "Rundead #11436",
-  "image": "https://arweave.net/TNFQSpUaA3XYM_Gdftaw0g1cL_L6Y32aumm63-f2d7k",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "14",
-  "Deadband": "Desert Deadband",
-  "Hair": "Crew Green",
-  "Face": "White Ok",
-  "Left Hand": "Left Glove Blue",
-  "Right Hand": "Right Band Clash",
-  "Upper Body": "Tank Mint",
-  "Lower Body": "Tight Black",
-  "Shoes": "Trips",
-  "Socks": "Darned",
-  "Body": "Bone Head",
-  "Background": "Gravel",
-  "owns": 106
-},
-{
   "mint": "57g6Z4dLanXYHVdwfPVULdp5ed91ziVNvzGcqzaVkRQL",
   "name": "Rundead #1755",
   "image": "https://arweave.net/W20hi1_WKw0ybwsAlshbtpPWkEw27IXbg74CYWbvBIk",
@@ -37772,6 +37752,26 @@
   "Socks": "Ankle Biters",
   "Body": "Brain Dead",
   "Background": "Cross Country",
+  "owns": 106
+},
+{
+  "mint": "5Amqdqd8RDQjAb7k1oadWWsPKcbjenVHNvmAsDAyN9du",
+  "name": "Rundead #11436",
+  "image": "https://arweave.net/TNFQSpUaA3XYM_Gdftaw0g1cL_L6Y32aumm63-f2d7k",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "14",
+  "Deadband": "Desert Deadband",
+  "Hair": "Crew Green",
+  "Face": "White Ok",
+  "Left Hand": "Left Glove Blue",
+  "Right Hand": "Right Band Clash",
+  "Upper Body": "Tank Mint",
+  "Lower Body": "Tight Black",
+  "Shoes": "Trips",
+  "Socks": "Darned",
+  "Body": "Bone Head",
+  "Background": "Gravel",
   "owns": 106
 },
 {
@@ -38617,24 +38617,6 @@
   "owns": 106
 },
 {
-  "mint": "FEQwoF7VsGWZ8Sy14BeZyjQPUukuQNSDiNL4jN7vaS5Z",
-  "name": "Rundead #10160",
-  "image": "https://arweave.net/ENAp_uY2Cznf25lf75vi9C2nzwdxzr1CiNCZE5_5VQ4",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "25",
-  "Deadband": "Cheetah Deadband",
-  "Hair": "Crew Green",
-  "Face": "Red Not a PFP",
-  "Upper Body": "Long Desert",
-  "Lower Body": "Norts Mono",
-  "Shoes": "Death Eaters",
-  "Socks": "Darned",
-  "Body": "Bone to Pick",
-  "Background": "Dusk",
-  "owns": 106
-},
-{
   "mint": "FDwoniKVesQk2Qjvo15h1JySWNAgXsoDQoPKWow8h2Xs",
   "name": "Rundead #10470",
   "image": "https://arweave.net/QtkeIFtV3yi-xGQ4v4bCA7mhAFAUkJZW1v3q-jW8_10",
@@ -38651,6 +38633,24 @@
   "Socks": "Nope",
   "Body": "Bone Head",
   "Background": "Rusty",
+  "owns": 106
+},
+{
+  "mint": "FEQwoF7VsGWZ8Sy14BeZyjQPUukuQNSDiNL4jN7vaS5Z",
+  "name": "Rundead #10160",
+  "image": "https://arweave.net/ENAp_uY2Cznf25lf75vi9C2nzwdxzr1CiNCZE5_5VQ4",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "25",
+  "Deadband": "Cheetah Deadband",
+  "Hair": "Crew Green",
+  "Face": "Red Not a PFP",
+  "Upper Body": "Long Desert",
+  "Lower Body": "Norts Mono",
+  "Shoes": "Death Eaters",
+  "Socks": "Darned",
+  "Body": "Bone to Pick",
+  "Background": "Dusk",
   "owns": 106
 },
 {
