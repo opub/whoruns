@@ -38787,23 +38787,6 @@
   "owns": 114
 },
 {
-  "mint": "A4xZkzhKmjouxjdZFo2oM8rCYv3b9r5oBBJ6ZGx6VrL7",
-  "name": "Rundead #6130",
-  "image": "https://arweave.net/5lHcqCWFOtyxfd_FUGwZXgYVs9T4hqE6erRf8xjdoTY",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Bones": "75",
-  "Miles": "1",
-  "Deadband": "Clash Deadband",
-  "Hair": "Hawkish Purple",
-  "Face": "Yollow Little Bolt Righty",
-  "Upper Body": "Long Invasion",
-  "Lower Body": "Twofer Black",
-  "Shoes": "Bad Hombre",
-  "Body": "A Little Snack",
-  "Background": "Slate",
-  "owns": 114
-},
-{
   "mint": "A16zLJ9P9ST6JcdTu2VFR2TijKUPWun7GuUQy7y4ZWjx",
   "name": "Rundead #8672",
   "image": "https://arweave.net/RcY-eDA8CD_bDXPKQUT2_HcghG093lgc9vVvTQiI7EY",
@@ -38819,6 +38802,23 @@
   "Socks": "Ankle Biters",
   "Body": "Brain Dead",
   "Background": "Gravel",
+  "owns": 114
+},
+{
+  "mint": "A4xZkzhKmjouxjdZFo2oM8rCYv3b9r5oBBJ6ZGx6VrL7",
+  "name": "Rundead #6130",
+  "image": "https://arweave.net/5lHcqCWFOtyxfd_FUGwZXgYVs9T4hqE6erRf8xjdoTY",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Bones": "75",
+  "Miles": "1",
+  "Deadband": "Clash Deadband",
+  "Hair": "Hawkish Purple",
+  "Face": "Yollow Little Bolt Righty",
+  "Upper Body": "Long Invasion",
+  "Lower Body": "Twofer Black",
+  "Shoes": "Bad Hombre",
+  "Body": "A Little Snack",
+  "Background": "Slate",
   "owns": 114
 },
 {

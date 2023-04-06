@@ -1,11 +1,10 @@
-updated Thu Apr  6 08:29:53 UTC 2023
+updated Thu Apr  6 08:51:55 UTC 2023
 https://magiceden.io/item-details/uvbvfpV2ByAbUuE3hLVLqwPtpweFEPmBDs4195f1uQz = 14 Bones, 93.333 Bones/SOL, 0.011 SOL/Bones, 0.15 SOL
 https://magiceden.io/item-details/GkirpFyMDHJdWyLapQsSs3bukLNQjcF34BnP8CcjAqgx = 13 Bones, 86.667 Bones/SOL, 0.012 SOL/Bones, 0.15 SOL
 https://magiceden.io/item-details/94eJyNGHZEpGufi4ysLPJpWGoz2J65SnLcAwi3Sa7zST = 13 Bones, 86.667 Bones/SOL, 0.012 SOL/Bones, 0.15 SOL
 https://magiceden.io/item-details/jC3BD4kgCodw3Fn5ar7UCrTj1eK4BEH3MvggnLpjkDd = 13 Bones, 86.667 Bones/SOL, 0.012 SOL/Bones, 0.15 SOL
 https://magiceden.io/item-details/G2LQLxXWqAjXDXusMhBYrQJTWPv4SmYsaGFWSJHo4jQN = 13 Bones, 86.667 Bones/SOL, 0.012 SOL/Bones, 0.15 SOL
 https://magiceden.io/item-details/Fug1ZugBcsFx9vXCqc1YyPfvwMLxqmmxmMgw92v9p8em = 17 Bones, 85 Bones/SOL, 0.012 SOL/Bones, 0.2 SOL
-https://magiceden.io/item-details/C8hd56SxZy1PjngmJeTt169WmH64p1dwXmk7YiAAhBBS = 38 Bones, 84.444 Bones/SOL, 0.012 SOL/Bones, 0.45 SOL
 https://magiceden.io/item-details/BYxN4CxqraDYiXmPFabZLQao5tCXtQczzbw7BDwZ4B4G = 12 Bones, 80 Bones/SOL, 0.012 SOL/Bones, 0.15 SOL
 https://magiceden.io/item-details/2Lq2WMsbQ21P7YuUhpaVccHxiHuhzUEvubMTtqthsXWv = 12 Bones, 80 Bones/SOL, 0.012 SOL/Bones, 0.15 SOL
 https://magiceden.io/item-details/2naRmxoB31mx1pfDq5kEF5ihxKJ8hNWuGERwswBNPShX = 15 Bones, 75 Bones/SOL, 0.013 SOL/Bones, 0.2 SOL
@@ -19,3 +18,4 @@ https://magiceden.io/item-details/HdTtg5pm3evwYXugdo8sDHqtZFneLfxTHEq3SimsLQm2 =
 https://magiceden.io/item-details/2g39HCz15B7EfkNHdFeNny6mnt7eXr59HAY9dMCBE8Rq = 13 Bones, 59.091 Bones/SOL, 0.017 SOL/Bones, 0.22 SOL
 https://magiceden.io/item-details/FQEn49cNMbHLPpjmzaRt62UMbvK4DsFb977WR9MMdYGg = 23 Bones, 57.5 Bones/SOL, 0.017 SOL/Bones, 0.4 SOL
 https://magiceden.io/item-details/3k1UwTVLGtVz5uqhAo7jjjQnNXgmFXSLKWksN4qnx2dk = 11 Bones, 55.276 Bones/SOL, 0.018 SOL/Bones, 0.199 SOL
+https://magiceden.io/item-details/E4q96KYmRVoAqKXZyhfmrJJn7SZkhMCiHrs4fsLtL9un = 11 Bones, 55.276 Bones/SOL, 0.018 SOL/Bones, 0.199 SOL
