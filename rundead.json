@@ -38251,22 +38251,6 @@
   "owns": 106
 },
 {
-  "mint": "ANRg8nof9m7xmKt4WedxfQfB4SWm9MuQjhScPn3n7Y8D",
-  "name": "Rundead #15387",
-  "image": "https://arweave.net/oxR2IUgefSBekPesFFcH4jLpumZ6jNTio7rm_6ix2f0",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "17",
-  "Deadband": "Black Deadband",
-  "Face": "Rose Ok",
-  "Upper Body": "Hood Coral",
-  "Lower Body": "Tight Sweaty",
-  "Shoes": "Marfas",
-  "Body": "Dead on Arrival",
-  "Background": "Dust",
-  "owns": 106
-},
-{
   "mint": "AowhNEkfnHcXwEKN8dCYwgVtarq3efvPVtRQDoWvAVmu",
   "name": "Rundead #13065",
   "image": "https://arweave.net/yqPFApk37UQcedtN-MHsasBgVpzjRf5rvFALkRNkZ3g",
@@ -38283,6 +38267,22 @@
   "Socks": "Sundays",
   "Body": "Dead Ahead",
   "Background": "Dusk",
+  "owns": 106
+},
+{
+  "mint": "ANRg8nof9m7xmKt4WedxfQfB4SWm9MuQjhScPn3n7Y8D",
+  "name": "Rundead #15387",
+  "image": "https://arweave.net/oxR2IUgefSBekPesFFcH4jLpumZ6jNTio7rm_6ix2f0",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "17",
+  "Deadband": "Black Deadband",
+  "Face": "Rose Ok",
+  "Upper Body": "Hood Coral",
+  "Lower Body": "Tight Sweaty",
+  "Shoes": "Marfas",
+  "Body": "Dead on Arrival",
+  "Background": "Dust",
   "owns": 106
 },
 {
