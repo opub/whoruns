@@ -37579,23 +37579,6 @@
   "owns": 121
 },
 {
-  "mint": "5EdKWWfq4bx9GykoMfrjwtDA7VNckAMCMCgM63N7V724",
-  "name": "Rundead #1687",
-  "image": "https://arweave.net/4_gAvE1f7UCxJ7GynZ1fzbMq5ImwF4MggsCn1SkKVE0",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "13",
-  "Deadband": "Punch Deadband",
-  "Hair": "Hawkish Green",
-  "Face": "White Ok",
-  "Upper Body": "Hood Yuck",
-  "Lower Body": "Tight Trail",
-  "Shoes": "Erasers",
-  "Body": "Dead Last",
-  "Background": "Slate",
-  "owns": 121
-},
-{
   "mint": "5cAffQLbCMEJF9HiCsqQtVcY5ZivSfbxFCyaPQ3ZVJVD",
   "name": "Rundead #19428",
   "image": "https://arweave.net/zC3-7K4iWtMl1XEm7bZ-wux7XhNNxnjzhBxarmSLr9Q?ext=png",
@@ -37644,6 +37627,23 @@
   "Shoes": "Bad Hombre",
   "Body": "Dead on Arrival",
   "Background": "Gravel",
+  "owns": 121
+},
+{
+  "mint": "5EdKWWfq4bx9GykoMfrjwtDA7VNckAMCMCgM63N7V724",
+  "name": "Rundead #1687",
+  "image": "https://arweave.net/4_gAvE1f7UCxJ7GynZ1fzbMq5ImwF4MggsCn1SkKVE0",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "13",
+  "Deadband": "Punch Deadband",
+  "Hair": "Hawkish Green",
+  "Face": "White Ok",
+  "Upper Body": "Hood Yuck",
+  "Lower Body": "Tight Trail",
+  "Shoes": "Erasers",
+  "Body": "Dead Last",
+  "Background": "Slate",
   "owns": 121
 },
 {
@@ -38369,24 +38369,6 @@
   "owns": 121
 },
 {
-  "mint": "CEfYbs9hEcKd5B2CBdMJE5qT5p9KwZ9DP1EhGvdEb6x9",
-  "name": "Rundead #3222",
-  "image": "https://arweave.net/L9DrUNiaJXY-oPxmJJWucWUow1efPaTW1VYy_hRRbxg",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "18",
-  "Deadband": "Desert Deadband",
-  "Hair": "Side Stitch Blur",
-  "Face": "Yollow Just Eat Me Already",
-  "Left Hand": "Left Glove Lime",
-  "Upper Body": "Long Hayward",
-  "Lower Body": "Tight Yuck",
-  "Shoes": "Curbed",
-  "Body": "Easy Meat",
-  "Background": "Sandy",
-  "owns": 121
-},
-{
   "mint": "CAVgZmTY5Reh2GD96zrDHXwmTMKC5xcRJJbij6U8B4m9",
   "name": "Rundead #7161",
   "image": "https://arweave.net/Z1qFtRH6ZGtEb8_2wvZ973eh2tEIqQ4-KZj4FBnlAqM",
@@ -38419,6 +38401,24 @@
   "Shoes": "Bad Hombre",
   "Socks": "Candy",
   "Body": "Bite the Dust",
+  "Background": "Sandy",
+  "owns": 121
+},
+{
+  "mint": "CEfYbs9hEcKd5B2CBdMJE5qT5p9KwZ9DP1EhGvdEb6x9",
+  "name": "Rundead #3222",
+  "image": "https://arweave.net/L9DrUNiaJXY-oPxmJJWucWUow1efPaTW1VYy_hRRbxg",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "18",
+  "Deadband": "Desert Deadband",
+  "Hair": "Side Stitch Blur",
+  "Face": "Yollow Just Eat Me Already",
+  "Left Hand": "Left Glove Lime",
+  "Upper Body": "Long Hayward",
+  "Lower Body": "Tight Yuck",
+  "Shoes": "Curbed",
+  "Body": "Easy Meat",
   "Background": "Sandy",
   "owns": 121
 },
@@ -38959,23 +38959,6 @@
   "owns": 121
 },
 {
-  "mint": "HRAKJimY1WSVb8szFkeqRzeUHchehpC1pf4Dvdj2qfAS",
-  "name": "Rundead #17404",
-  "image": "https://arweave.net/TXUZ4nonNzFfCJaD42WM_trpfLuYtHkPI-nQC4Lask4",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "9",
-  "Deadband": "Purple Deadband",
-  "Face": "White nah",
-  "Upper Body": "Tank Yuck",
-  "Lower Body": "Tight White",
-  "Shoes": "Erasers",
-  "Socks": "Ankle Biters",
-  "Body": "A Little Snack",
-  "Background": "Dust",
-  "owns": 121
-},
-{
   "mint": "HPUeoGmhM7qLiNzs2KXL2VhJXjLEo3TVyCW97438UitT",
   "name": "Rundead #8622",
   "image": "https://arweave.net/QEKJ81fBdSam3pzPhDuVWJC2oeesHdhqnQvjmyA7oJQ",
@@ -38991,6 +38974,23 @@
   "Socks": "Stems",
   "Body": "Dead on Arrival",
   "Background": "Superbloom",
+  "owns": 121
+},
+{
+  "mint": "HRAKJimY1WSVb8szFkeqRzeUHchehpC1pf4Dvdj2qfAS",
+  "name": "Rundead #17404",
+  "image": "https://arweave.net/TXUZ4nonNzFfCJaD42WM_trpfLuYtHkPI-nQC4Lask4",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "9",
+  "Deadband": "Purple Deadband",
+  "Face": "White nah",
+  "Upper Body": "Tank Yuck",
+  "Lower Body": "Tight White",
+  "Shoes": "Erasers",
+  "Socks": "Ankle Biters",
+  "Body": "A Little Snack",
+  "Background": "Dust",
   "owns": 121
 },
 {
