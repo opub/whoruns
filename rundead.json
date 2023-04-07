@@ -37559,23 +37559,6 @@
   "owns": 121
 },
 {
-  "mint": "5Ae87qxZwTc95tfqPPg8Br9Jx4bN1TVbXSTFG2aUpqJS",
-  "name": "Rundead #2280",
-  "image": "https://arweave.net/14aTtqpTvst_X-dWuPvJu_0Yg2YNHl7e0aVHysLnyhQ",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Bones": "265",
-  "Deadband": "Punch Deadband",
-  "Hair": "Mess Mint",
-  "Face": "Mint Down Bad",
-  "Upper Body": "Hood Galaxy",
-  "Lower Body": "Tight Coral",
-  "Shoes": "Erasers",
-  "Socks": "Ankle Biters",
-  "Body": "Brain Dead",
-  "Background": "Cross Country",
-  "owns": 121
-},
-{
   "mint": "5Amqdqd8RDQjAb7k1oadWWsPKcbjenVHNvmAsDAyN9du",
   "name": "Rundead #11436",
   "image": "https://arweave.net/TNFQSpUaA3XYM_Gdftaw0g1cL_L6Y32aumm63-f2d7k",
@@ -37627,6 +37610,23 @@
   "Lower Body": "Tight Hayward",
   "Shoes": "Blood Stained",
   "Body": "Bare Bones",
+  "Background": "Cross Country",
+  "owns": 121
+},
+{
+  "mint": "5Ae87qxZwTc95tfqPPg8Br9Jx4bN1TVbXSTFG2aUpqJS",
+  "name": "Rundead #2280",
+  "image": "https://arweave.net/14aTtqpTvst_X-dWuPvJu_0Yg2YNHl7e0aVHysLnyhQ",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Bones": "265",
+  "Deadband": "Punch Deadband",
+  "Hair": "Mess Mint",
+  "Face": "Mint Down Bad",
+  "Upper Body": "Hood Galaxy",
+  "Lower Body": "Tight Coral",
+  "Shoes": "Erasers",
+  "Socks": "Ankle Biters",
+  "Body": "Brain Dead",
   "Background": "Cross Country",
   "owns": 121
 },
