@@ -38039,23 +38039,6 @@
   "owns": 105
 },
 {
-  "mint": "FA1bHNPseWqztnDpKVA6fEHD5gJcLhhsN7nANCrZujLh",
-  "name": "Rundead #2448",
-  "image": "https://arweave.net/9QEZ7NKEmos3mLxKrc85XBWXeuAVxTWQ0fQJsCkS218",
-  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
-  "Miles": "1",
-  "Bones": "12",
-  "Deadband": "White Deadband",
-  "Face": "Red Yummy",
-  "Right Hand": "Right glove Black",
-  "Upper Body": "Tank Orange",
-  "Lower Body": "Twofer Lime",
-  "Shoes": "Bad Hombre",
-  "Body": "Bone to Pick",
-  "Background": "Dusk",
-  "owns": 105
-},
-{
   "mint": "FDwoniKVesQk2Qjvo15h1JySWNAgXsoDQoPKWow8h2Xs",
   "name": "Rundead #10470",
   "image": "https://arweave.net/QtkeIFtV3yi-xGQ4v4bCA7mhAFAUkJZW1v3q-jW8_10",
@@ -38072,6 +38055,23 @@
   "Socks": "Nope",
   "Body": "Bone Head",
   "Background": "Rusty",
+  "owns": 105
+},
+{
+  "mint": "FA1bHNPseWqztnDpKVA6fEHD5gJcLhhsN7nANCrZujLh",
+  "name": "Rundead #2448",
+  "image": "https://arweave.net/9QEZ7NKEmos3mLxKrc85XBWXeuAVxTWQ0fQJsCkS218",
+  "owner": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue",
+  "Miles": "1",
+  "Bones": "12",
+  "Deadband": "White Deadband",
+  "Face": "Red Yummy",
+  "Right Hand": "Right glove Black",
+  "Upper Body": "Tank Orange",
+  "Lower Body": "Twofer Lime",
+  "Shoes": "Bad Hombre",
+  "Body": "Bone to Pick",
+  "Background": "Dusk",
   "owns": 105
 },
 {
