@@ -1,16 +1,16 @@
 name: Update RUNDEAD
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0,30 * * * *'  
-  push:
-    branches:
-      - main
-    paths:
-      - '**'
-      - '!rundead.*'
-      - '!listing.txt'
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     - cron: '0,30 * * * *'  
+#   push:
+#     branches:
+#       - main
+#     paths:
+#       - '**'
+#       - '!rundead.*'
+#       - '!listing.txt'
 
 jobs:
   Update-RUNDEAD-Stats:
