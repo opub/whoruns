@@ -1,4 +1,4 @@
-updated Fri Apr  7 23:53:47 UTC 2023
+updated Sat Apr  8 00:56:31 UTC 2023
 https://magiceden.io/item-details/HdTtg5pm3evwYXugdo8sDHqtZFneLfxTHEq3SimsLQm2 = 15 Bones, 60 Bones/SOL, 0.017 SOL/Bones, 0.25 SOL
 https://magiceden.io/item-details/FQEn49cNMbHLPpjmzaRt62UMbvK4DsFb977WR9MMdYGg = 23 Bones, 57.5 Bones/SOL, 0.017 SOL/Bones, 0.4 SOL
 https://magiceden.io/item-details/CvDTsxFX2oAMnH1z7Aecxjag67JiZPprCM4pQgt1nKq = 222 Bones, 55.5 Bones/SOL, 0.018 SOL/Bones, 4 SOL
